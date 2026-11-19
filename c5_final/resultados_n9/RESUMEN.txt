@@ -1,0 +1,15 @@
+RESUMEN C5 18/11/2026 22:19:31
+  n = 8: CPU de los trozos hechos 0.53 h
+  n = 8, pi, C7 (con menos unario): CERRADA: 127/127 separaciones, 490 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 8, pi, C11 (sin menos unario, E11 = 1.77548e-12): CERRADA: 127/127 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 8, gamma, C7 (con menos unario): CERRADA: 127/127 separaciones, 482 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 8, gamma, C11 (sin menos unario, E11 = 6.08386e-13): CERRADA: 127/127 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 8, delta, C7 (con menos unario): CERRADA: 127/127 separaciones, 492 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 8, delta, C11 (sin menos unario, E11 = 3.05807e-11): CERRADA: 127/127 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 9: CPU de los trozos hechos 336.03 h
+  n = 9, pi, C7 (con menos unario): CERRADA: 255/255 separaciones, 1845905 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 9, pi, C11 (sin menos unario, E11 = 3.53287e-13): CERRADA: 255/255 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 9, gamma, C7 (con menos unario): CERRADA: 255/255 separaciones, 1757123 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 9, gamma, C11 (sin menos unario, E11 = 1.98017e-15): CERRADA: 255/255 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 9, delta, C7 (con menos unario): CERRADA: 255/255 separaciones, 1848564 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 9, delta, C11 (sin menos unario, E11 = 1.49661e-12): CERRADA: 255/255 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)

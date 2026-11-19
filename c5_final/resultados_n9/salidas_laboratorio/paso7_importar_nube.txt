@@ -1,0 +1,60 @@
+﻿paquete: D:\Daniel\Pandigital\c5cierre; huella del verificador 1e05db8f91fe15ec; radios de consulta pi 3.532867684881229e-13, gamma 2.1200000021200003e-15, delta 1.4966108836906702e-12
+sesion 31: 1/1 splits completos, CPU 6.2 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 32: 2/2 splits completos, CPU 6.0 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 33: 2/2 splits completos, CPU 8.8 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 34: 2/2 splits completos, CPU 5.9 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 35: 2/2 splits completos, CPU 6.5 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 36: 2/2 splits completos, CPU 4.2 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 37: 2/2 splits completos, CPU 5.8 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 38: 2/2 splits completos, CPU 5.1 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 39: 2/2 splits completos, CPU 10.7 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 40: 2/2 splits completos, CPU 5.6 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 41: 2/2 splits completos, CPU 8.2 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 42: 2/2 splits completos, CPU 13.8 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 43: 2/2 splits completos, CPU 14.8 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 44: 2/2 splits completos, CPU 15.9 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 45: 6/6 splits completos, CPU 5.8 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 46: 6/6 splits completos, CPU 7.8 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 47: 6/6 splits completos, CPU 7.0 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 48: 6/6 splits completos, CPU 10.6 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 49: 6/6 splits completos, CPU 7.7 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 50: 6/6 splits completos, CPU 8.3 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 51: 6/6 splits completos, CPU 7.2 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 52: 6/6 splits completos, CPU 7.1 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 53: 26/26 splits completos, CPU 14.1 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 54: 25/25 splits completos, CPU 23.5 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 55: 25/25 splits completos, CPU 12.8 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 56: 25/25 splits completos, CPU 10.4 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+sesion 57: 25/25 splits completos, CPU 8.9 h, control {'pi': 306, 'gamma': 304, 'delta': 310}
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube31.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube32.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube33.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube34.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube35.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube36.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube37.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube38.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube39.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube40.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube41.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube42.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube43.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube44.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube45.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube46.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube47.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube48.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube49.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube50.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube51.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube52.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube53.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube54.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube55.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube56.jsonl
+  copiado: D:\Daniel\Pandigital\c5cierre\work\res_c5\c5_9_parte_nube57.jsonl
+sesiones comprobadas: 27/27; todas completas
+VERIFICACION NUBE: OK
+
+18/11/2026 22:19:13  importar_nube: OK (27 archivos); detalle en D:\Daniel\Pandigital\c5cierre\work\logs\importar_nube.log
+Presione una tecla para continuar . . . 

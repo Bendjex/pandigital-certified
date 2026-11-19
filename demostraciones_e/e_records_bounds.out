@@ -1,0 +1,30 @@
+== 1-7 any order (ours):  (1+4^(-36))^(.5^(-72))
+   identity L*R = 1 verified exactly; N = (1/2)^(-72)
+   log10 N           = 21.67415968780664605538920
+   -log10(error)     in [21.54089520156737542295181, 21.54089520156737542295220]
+   correct decimals k = floor(log10(N/e)) = 21  (exactness of floor certified: True)
+== 1-8 any order (ours):  (1+2^(-8^7))^(4^(.5^(-6/.3)))
+   identity L*R = 1 verified exactly; N = (4)^(1048576)
+   log10 N           = 631305.6574667094915048830
+   -log10(error)     in [631305.5242022232522342505, 631305.5242022232522342505]
+   correct decimals k = floor(log10(N/e)) = 631305  (exactness of floor certified: True)
+== 1-9 any order (Bamberger):  (1+.2^(9^(6*7)))^(5^(3^84))
+   identity L*R = 1 verified exactly; N = (5)^(134-bit integer)
+   log10 N           = 8.368428989068425943817591e+39
+   -log10(error)     in [8.368428989068425943817591e+39, 8.368428989068425943817591e+39]
+   correct decimals k = floor(log10(N/e)) = 8368428989068425943817590916445001887164  (exactness of floor certified: True)
+== 1-8 in order (ours):  (1+.2^34)^(5^(6*7-8))
+   identity L*R = 1 verified exactly; N = (5)^(34)
+   log10 N           = 23.76498014742463936273288
+   -log10(error)     in [23.63171566118536873029549, 23.63171566118536873029549]
+   correct decimals k = floor(log10(N/e)) = 23  (exactness of floor certified: True)
+== 1-9 in order (ours):  (1+.2^(3^4))^(5^(6*(7+8)*.9))
+   identity L*R = 1 verified exactly; N = (5)^(81)
+   log10 N           = 56.61657035121752318768715
+   -log10(error)     in [56.48330586497825255524976, 56.48330586497825255524976]
+   correct decimals k = floor(log10(N/e)) = 56  (exactness of floor certified: True)
+== 0-9 any order (ours):  (1+.2^(9^70))^(5^(3^(84/.6)))
+   identity L*R = 1 verified exactly; N = (5)^(222-bit integer)
+   log10 N           = 4.379597503586508305506762e+66
+   -log10(error)     in [4.379597503586508305506762e+66, 4.379597503586508305506762e+66]
+   correct decimals k = floor(log10(N/e)) = 4379597503586508305506762455287865626188758462213921632491859893686  (exactness of floor certified: True)

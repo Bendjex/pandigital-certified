@@ -1,0 +1,46 @@
+{
+ "n": 8,
+ "splits": 127,
+ "cpu_h": 0.53,
+ "consts": {
+  "pi": {
+   "splits_done": 127,
+   "hits": 490,
+   "undecided": 0,
+   "motorB_unresolved": 0,
+   "pieces_done": 641,
+   "closed": true,
+   "E11": 1.7754842022891951e-12,
+   "splits_c11": 127,
+   "undecided_c11": 0,
+   "inside_c11": 0,
+   "closed_c11": true
+  },
+  "gamma": {
+   "splits_done": 127,
+   "hits": 482,
+   "undecided": 0,
+   "motorB_unresolved": 0,
+   "pieces_done": 641,
+   "closed": true,
+   "E11": 6.083860837112889e-13,
+   "splits_c11": 127,
+   "undecided_c11": 0,
+   "inside_c11": 0,
+   "closed_c11": true
+  },
+  "delta": {
+   "splits_done": 127,
+   "hits": 492,
+   "undecided": 0,
+   "motorB_unresolved": 0,
+   "pieces_done": 641,
+   "closed": true,
+   "E11": 3.058073576057598e-11,
+   "splits_c11": 127,
+   "undecided_c11": 0,
+   "inside_c11": 0,
+   "closed_c11": true
+  }
+ }
+}

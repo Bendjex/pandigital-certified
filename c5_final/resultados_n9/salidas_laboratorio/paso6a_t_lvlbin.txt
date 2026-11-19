@@ -1,0 +1,1 @@
+t_lvlbin: 24 differences decided with the true ln inside, 24 exact zeros; PROBLEMS 0

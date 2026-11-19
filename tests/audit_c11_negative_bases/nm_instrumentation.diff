@@ -1,0 +1,25 @@
+99a100,101
+>                                 if AUDIT and not expo.is_rational() and _maybe_int(expo):
+>                                     _audit(f"({ea}^{eb})", expo)
+273a276,296
+> 
+> 
+> # ---- audit of review point 4.4 (C10): a negative base whose exponent is not an exact rational but whose
+> # ---- ball may contain an integer.  Only counts; the verification itself is unchanged.
+> import os as _os
+> AUDIT = _os.environ.get("C11_AUDIT_DIR")
+> 
+> 
+> def _maybe_int(x):
+>     b = ex.tight_ball(x)
+>     lo, hi = b.lower(), b.upper()
+>     f = lo.floor()
+>     try:
+>         return bool(hi >= f + 1) or bool(lo == f)
+>     except Exception:
+>         return True
+> 
+> 
+> def _audit(expr, x):
+>     with open(_os.path.join(AUDIT, f"audit_{_os.getpid()}.txt"), "a") as fh:
+>         fh.write(expr + "\t" + str(ex.tight_ball(x)) + "\n")

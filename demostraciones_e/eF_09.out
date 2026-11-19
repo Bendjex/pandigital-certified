@@ -1,0 +1,53 @@
+SB(3) <= e^21.4554;  configurations: 2212
+  0/2212  75s  hits 0 unresolved 0
+  50/2212  338s  hits 8 unresolved 0
+  100/2212  345s  hits 8 unresolved 0
+  150/2212  347s  hits 8 unresolved 0
+  200/2212  347s  hits 8 unresolved 0
+  250/2212  349s  hits 16 unresolved 0
+  300/2212  349s  hits 16 unresolved 0
+  350/2212  352s  hits 16 unresolved 0
+  400/2212  352s  hits 16 unresolved 0
+  450/2212  353s  hits 16 unresolved 0
+  500/2212  353s  hits 16 unresolved 0
+  550/2212  353s  hits 16 unresolved 0
+  600/2212  353s  hits 16 unresolved 0
+  650/2212  353s  hits 16 unresolved 0
+  700/2212  353s  hits 16 unresolved 0
+  750/2212  353s  hits 16 unresolved 0
+  800/2212  353s  hits 16 unresolved 0
+  850/2212  353s  hits 16 unresolved 0
+  900/2212  353s  hits 16 unresolved 0
+  950/2212  353s  hits 16 unresolved 0
+  1000/2212  353s  hits 16 unresolved 0
+  1050/2212  353s  hits 16 unresolved 0
+  1100/2212  353s  hits 16 unresolved 0
+  1150/2212  353s  hits 16 unresolved 0
+  1200/2212  353s  hits 16 unresolved 0
+  1250/2212  353s  hits 16 unresolved 0
+  1300/2212  353s  hits 16 unresolved 0
+  1350/2212  353s  hits 16 unresolved 0
+  1400/2212  353s  hits 16 unresolved 0
+  1450/2212  353s  hits 16 unresolved 0
+  1500/2212  353s  hits 16 unresolved 0
+  1550/2212  353s  hits 16 unresolved 0
+  1600/2212  353s  hits 16 unresolved 0
+  1650/2212  353s  hits 16 unresolved 0
+  1700/2212  353s  hits 16 unresolved 0
+  1750/2212  353s  hits 16 unresolved 0
+  1800/2212  353s  hits 16 unresolved 0
+  1850/2212  353s  hits 16 unresolved 0
+  1900/2212  353s  hits 16 unresolved 0
+  1950/2212  353s  hits 16 unresolved 0
+  2000/2212  353s  hits 16 unresolved 0
+  2050/2212  353s  hits 16 unresolved 0
+  2100/2212  353s  hits 16 unresolved 0
+  2150/2212  353s  hits 16 unresolved 0
+  2200/2212  353s  hits 16 unresolved 0
+digits 0-9, theta = 154.0  (355s)
+unresolved overlaps (must be empty): 0
+verified identities: 16, distinct ln ln N values: 1
+  ln(ln N) = [154.28160540886246742 +/- 3.65e-18]   (16 writings)
+        (1 + .2^(9^70))^(5^(3^(84/.6)))
+        (1 + .2^(9^70))^(-5^(3^(84/.6)))
+        (1 + -.2^(9^70))^(5^(3^(84/.6)))

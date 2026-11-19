@@ -1,0 +1,702 @@
+tables size 1: 8 sets, 16 classes (kept), 0 unresolved
+tables size 2: 28 sets, 955 classes (kept), 0 unresolved
+tables size 3: 56 sets, 66434 classes (kept), 0 unresolved
+tables size 4: 70 sets, 4819505 classes (kept), 0 unresolved
+motor A tables up to 4: 4.1s
+[chunks] split 0 (delta): 1/11 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 0 (delta): 2/11 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+N45678: 723295 enclosures (from the cache), 3.0s
+N35678: 687510 enclosures (from the cache), 2.4s
+N34678: 687222 enclosures (from the cache), 1.3s
+N34578: 633105 enclosures (from the cache), 1.5s
+N34568: 600649 enclosures (from the cache), 1.2s
+N34567: 602424 enclosures (from the cache), 0.6s
+N5678: 4806 enclosures (from the cache), 0.0s
+N4678: 4792 enclosures (from the cache), 0.0s
+N4578: 4550 enclosures (from the cache), 0.0s
+N4568: 4346 enclosures (from the cache), 0.0s
+N4567: 4322 enclosures (from the cache), 0.0s
+N3678: 4484 enclosures (from the cache), 0.0s
+N3578: 4256 enclosures (from the cache), 0.0s
+N3568: 3974 enclosures (from the cache), 0.0s
+N3567: 3866 enclosures (from the cache), 0.0s
+N3478: 4280 enclosures (from the cache), 0.0s
+N3468: 4006 enclosures (from the cache), 0.0s
+N3467: 3828 enclosures (from the cache), 0.0s
+N3458: 3496 enclosures (from the cache), 0.0s
+N3457: 3338 enclosures (from the cache), 0.0s
+N3456: 3108 enclosures (from the cache), 0.0s
+N345: 6 enclosures (0 possibly in range), 0.0s
+N678: 24 enclosures (0 possibly in range), 0.0s
+N346: 14 enclosures (0 possibly in range), 0.1s
+N578: 24 enclosures (0 possibly in range), 0.0s
+N347: 18 enclosures (0 possibly in range), 0.0s
+N568: 24 enclosures (0 possibly in range), 0.0s
+N348: 22 enclosures (0 possibly in range), 0.0s
+N567: 24 enclosures (0 possibly in range), 0.0s
+N356: 16 enclosures (0 possibly in range), 0.0s
+N478: 26 enclosures (0 possibly in range), 0.0s
+N357: 18 enclosures (0 possibly in range), 0.0s
+N468: 26 enclosures (0 possibly in range), 0.0s
+N358: 20 enclosures (0 possibly in range), 0.0s
+N467: 24 enclosures (0 possibly in range), 0.0s
+N367: 20 enclosures (0 possibly in range), 0.0s
+N458: 24 enclosures (0 possibly in range), 0.0s
+N368: 22 enclosures (0 possibly in range), 0.0s
+N457: 22 enclosures (0 possibly in range), 0.0s
+N378: 26 enclosures (0 possibly in range), 0.0s
+N456: 20 enclosures (0 possibly in range), 0.0s
+[chunks] split 0 (delta): 3/11 chunks done (VN.2: hits 0, undecided 0, C11 0, 9.1 s)
+N25678: 547097 enclosures (from the cache), 1.1s
+N24678: 600942 enclosures (from the cache), 0.7s
+N24578: 493546 enclosures (from the cache), 0.3s
+N24568: 465285 enclosures (from the cache), 0.2s
+N24567: 480951 enclosures (from the cache), 0.0s
+N2678: 3780 enclosures (from the cache), 0.0s
+N2578: 3192 enclosures (from the cache), 0.0s
+N2568: 3092 enclosures (from the cache), 0.0s
+N2567: 3036 enclosures (from the cache), 0.0s
+N2478: 3660 enclosures (from the cache), 0.0s
+N2468: 3392 enclosures (from the cache), 0.0s
+N2467: 3424 enclosures (from the cache), 0.0s
+N2458: 2722 enclosures (from the cache), 0.0s
+N2457: 2706 enclosures (from the cache), 0.0s
+N2456: 2580 enclosures (from the cache), 0.0s
+N245: 12 enclosures (0 possibly in range), 0.0s
+N246: 14 enclosures (0 possibly in range), 0.0s
+N247: 16 enclosures (0 possibly in range), 0.0s
+N248: 18 enclosures (0 possibly in range), 0.0s
+N256: 14 enclosures (0 possibly in range), 0.0s
+N257: 14 enclosures (0 possibly in range), 0.0s
+N258: 14 enclosures (0 possibly in range), 0.0s
+N267: 16 enclosures (0 possibly in range), 0.0s
+N268: 16 enclosures (0 possibly in range), 0.0s
+N278: 16 enclosures (0 possibly in range), 0.0s
+[chunks] split 0 (delta): 4/11 chunks done (VN.3: hits 0, undecided 0, C11 0, 5.1 s)
+N23678: 584092 enclosures (from the cache), 0.8s
+N23578: 481714 enclosures (from the cache), 0.5s
+N23568: 453759 enclosures (from the cache), 0.6s
+N23567: 451042 enclosures (from the cache), 0.0s
+N2378: 3432 enclosures (from the cache), 0.3s
+N2368: 3122 enclosures (from the cache), 0.0s
+N2367: 3062 enclosures (from the cache), 0.3s
+N2358: 2470 enclosures (from the cache), 0.1s
+N2357: 2338 enclosures (from the cache), 0.0s
+N2356: 2208 enclosures (from the cache), 0.4s
+N235: 4 enclosures (0 possibly in range), 0.0s
+N236: 10 enclosures (0 possibly in range), 0.0s
+N237: 12 enclosures (0 possibly in range), 0.0s
+N238: 14 enclosures (0 possibly in range), 0.1s
+[chunks] split 0 (delta): 5/11 chunks done (VN.4: hits 0, undecided 0, C11 0, 4.8 s)
+N23478: 536745 enclosures (from the cache), 0.7s
+N23468: 494234 enclosures (from the cache), 0.4s
+N23467: 497663 enclosures (from the cache), 0.1s
+N2348: 2806 enclosures (from the cache), 0.0s
+N2347: 2556 enclosures (from the cache), 0.0s
+N2346: 2308 enclosures (from the cache), 0.0s
+N234: 2 enclosures (0 possibly in range), 0.0s
+[chunks] split 0 (delta): 6/11 chunks done (VN.5: hits 0, undecided 0, C11 0, 3.7 s)
+N23458: 395638 enclosures (from the cache), 0.2s
+N23457: 394627 enclosures (from the cache), 0.0s
+N2345: 1652 enclosures (from the cache), 0.0s
+[chunks] split 0 (delta): 7/11 chunks done (VN.6: hits 0, undecided 0, C11 0, 2.5 s)
+N23456: 369011 enclosures (from the cache), 0.0s
+[chunks] split 0 (delta): 8/11 chunks done (VN.7: hits 0, undecided 0, C11 0, 2.5 s)
+[chunks] split 0 (delta): 9/11 chunks done (VN.8: hits 0, undecided 0, C11 0, 2.2 s)
+[chunks] split 0 (delta): 10/11 chunks done (VN.r2: hits 0, undecided 0, C11 0, 0.7 s)
+[progress] delta hit 1/136 (0.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/136 (1.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/136 (2.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/136 (2.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 5/136 (3.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 6/136 (4.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 7/136 (5.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 8/136 (5.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 9/136 (6.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 10/136 (7.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 11/136 (8.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 12/136 (8.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 13/136 (9.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 14/136 (10.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 15/136 (11.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 16/136 (11.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 17/136 (12.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 18/136 (13.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 19/136 (14.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 20/136 (14.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 21/136 (15.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 22/136 (16.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 23/136 (16.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 24/136 (17.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 25/136 (18.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 26/136 (19.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 27/136 (19.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 28/136 (20.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 29/136 (21.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 30/136 (22.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 31/136 (22.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 32/136 (23.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 33/136 (24.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 34/136 (25.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 35/136 (25.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 36/136 (26.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 37/136 (27.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 38/136 (27.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 39/136 (28.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 40/136 (29.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 41/136 (30.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 42/136 (30.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 43/136 (31.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 44/136 (32.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 45/136 (33.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 46/136 (33.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 47/136 (34.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 48/136 (35.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 49/136 (36.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 50/136 (36.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 51/136 (37.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 52/136 (38.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 53/136 (39.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 54/136 (39.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 55/136 (40.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 56/136 (41.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 57/136 (41.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 58/136 (42.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 59/136 (43.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 60/136 (44.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 61/136 (44.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 62/136 (45.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 63/136 (46.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 64/136 (47.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 65/136 (47.8%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 66/136 (48.5%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 67/136 (49.3%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 68/136 (50.0%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 69/136 (50.7%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 70/136 (51.5%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 71/136 (52.2%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 72/136 (52.9%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 73/136 (53.7%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 74/136 (54.4%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 75/136 (55.1%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 76/136 (55.9%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 77/136 (56.6%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 78/136 (57.4%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 79/136 (58.1%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 80/136 (58.8%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 81/136 (59.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 82/136 (60.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 83/136 (61.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 84/136 (61.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 85/136 (62.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 86/136 (63.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 87/136 (64.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 88/136 (64.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 89/136 (65.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 90/136 (66.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 91/136 (66.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 92/136 (67.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 93/136 (68.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 94/136 (69.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 95/136 (69.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 96/136 (70.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 97/136 (71.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 98/136 (72.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 99/136 (72.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 100/136 (73.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 101/136 (74.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 102/136 (75.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 103/136 (75.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 104/136 (76.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 105/136 (77.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 106/136 (77.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 107/136 (78.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 108/136 (79.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 109/136 (80.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 110/136 (80.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 111/136 (81.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 112/136 (82.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 113/136 (83.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 114/136 (83.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 115/136 (84.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 116/136 (85.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 117/136 (86.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 118/136 (86.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 119/136 (87.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 120/136 (88.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 121/136 (89.0%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 122/136 (89.7%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 123/136 (90.4%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 124/136 (91.2%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 125/136 (91.9%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 126/136 (92.6%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 127/136 (93.4%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 128/136 (94.1%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 129/136 (94.9%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 130/136 (95.6%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 131/136 (96.3%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 132/136 (97.1%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 133/136 (97.8%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 134/136 (98.5%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 135/136 (99.3%) values 0 undecided_c7 0 undecided_c11 0
+[progress] delta hit 136/136 (100.0%) values 0 undecided_c7 0 undecided_c11 0
+[chunks] split 0 (delta): 11/11 chunks done (VN.r3: hits 136, undecided 0, C11 0, 11.1 s)
+RESULT delta split 0 S1=1: hits 136, undecided 0, C11 undecided 0 (certainly inside 0), cpu 41.8s
+[chunks] split 3 (delta): 1/11 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 3 (delta): 2/11 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 3 (delta): 3/11 chunks done (VN.1: hits 0, undecided 0, C11 0, 2.3 s)
+N15678: 453688 enclosures (from the cache), 0.7s
+N13678: 429934 enclosures (from the cache), 0.5s
+N13578: 413357 enclosures (from the cache), 0.3s
+N13568: 393989 enclosures (from the cache), 0.2s
+N13567: 384917 enclosures (from the cache), 0.0s
+N1678: 2793 enclosures (from the cache), 0.0s
+N1578: 2785 enclosures (from the cache), 0.0s
+N1568: 2727 enclosures (from the cache), 0.0s
+N1567: 2629 enclosures (from the cache), 0.0s
+N1378: 2613 enclosures (from the cache), 0.0s
+N1368: 2473 enclosures (from the cache), 0.0s
+N1367: 2377 enclosures (from the cache), 0.0s
+N1358: 2349 enclosures (from the cache), 0.0s
+N1357: 2251 enclosures (from the cache), 0.0s
+N1356: 2095 enclosures (from the cache), 0.0s
+N135: 10 enclosures (0 possibly in range), 0.0s
+N136: 10 enclosures (0 possibly in range), 0.0s
+N137: 12 enclosures (0 possibly in range), 0.0s
+N138: 12 enclosures (0 possibly in range), 0.0s
+N156: 12 enclosures (0 possibly in range), 0.0s
+N157: 12 enclosures (0 possibly in range), 0.0s
+N158: 12 enclosures (0 possibly in range), 0.0s
+N167: 12 enclosures (0 possibly in range), 0.0s
+N168: 12 enclosures (0 possibly in range), 0.0s
+N178: 12 enclosures (0 possibly in range), 0.0s
+[chunks] split 3 (delta): 4/11 chunks done (VN.2: hits 0, undecided 0, C11 0, 4.7 s)
+N12678: 371472 enclosures (from the cache), 0.5s
+N12578: 321649 enclosures (from the cache), 0.3s
+N12568: 311425 enclosures (from the cache), 0.1s
+N12567: 308660 enclosures (from the cache), 0.0s
+N1278: 2003 enclosures (from the cache), 0.0s
+N1268: 1971 enclosures (from the cache), 0.0s
+N1267: 1945 enclosures (from the cache), 0.0s
+N1258: 1715 enclosures (from the cache), 0.0s
+N1257: 1705 enclosures (from the cache), 0.0s
+N1256: 1663 enclosures (from the cache), 0.0s
+N125: 6 enclosures (0 possibly in range), 0.0s
+N126: 6 enclosures (0 possibly in range), 0.0s
+N127: 6 enclosures (0 possibly in range), 0.0s
+N128: 6 enclosures (0 possibly in range), 0.0s
+[chunks] split 3 (delta): 5/11 chunks done (VN.3: hits 0, undecided 0, C11 0, 3.4 s)
+N12378: 336781 enclosures (from the cache), 0.3s
+N12368: 317452 enclosures (from the cache), 0.2s
+N12367: 314221 enclosures (from the cache), 0.0s
+N1238: 1681 enclosures (from the cache), 0.0s
+N1237: 1627 enclosures (from the cache), 0.1s
+N1236: 1465 enclosures (from the cache), 0.0s
+N123: 4 enclosures (0 possibly in range), 0.0s
+[chunks] split 3 (delta): 6/11 chunks done (VN.5: hits 0, undecided 0, C11 0, 2.9 s)
+N12358: 266286 enclosures (from the cache), 0.1s
+N12357: 262362 enclosures (from the cache), 0.0s
+N1235: 1171 enclosures (from the cache), 0.0s
+[chunks] split 3 (delta): 7/11 chunks done (VN.6: hits 0, undecided 0, C11 0, 2.6 s)
+N12356: 246400 enclosures (from the cache), 0.0s
+[chunks] split 3 (delta): 8/11 chunks done (VN.7: hits 0, undecided 0, C11 0, 2.3 s)
+[chunks] split 3 (delta): 9/11 chunks done (VN.8: hits 0, undecided 0, C11 0, 2.1 s)
+[chunks] split 3 (delta): 10/11 chunks done (VN.r2: hits 0, undecided 0, C11 0, 0.5 s)
+[chunks] split 3 (delta): 11/11 chunks done (VN.r3: hits 0, undecided 0, C11 0, 12.0 s)
+RESULT delta split 3 S1=4: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 32.9s
+[chunks] split 6 (delta): 1/11 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 6 (delta): 2/11 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 6 (delta): 3/11 chunks done (VN.1: hits 0, undecided 0, C11 0, 2.5 s)
+N14568: 411757 enclosures (from the cache), 0.5s
+N13468: 391393 enclosures (from the cache), 0.3s
+N13458: 354890 enclosures (from the cache), 0.2s
+N13456: 329248 enclosures (from the cache), 0.0s
+N1468: 2705 enclosures (from the cache), 0.0s
+N1458: 2555 enclosures (from the cache), 0.0s
+N1456: 2367 enclosures (from the cache), 0.0s
+N1348: 2333 enclosures (from the cache), 0.0s
+N1346: 1987 enclosures (from the cache), 0.0s
+N1345: 1687 enclosures (from the cache), 0.0s
+N134: 8 enclosures (0 possibly in range), 0.0s
+N145: 12 enclosures (0 possibly in range), 0.0s
+N146: 12 enclosures (0 possibly in range), 0.0s
+N148: 14 enclosures (0 possibly in range), 0.0s
+[chunks] split 6 (delta): 4/11 chunks done (VN.2: hits 0, undecided 0, C11 0, 3.7 s)
+N12468: 331746 enclosures (from the cache), 0.3s
+N12458: 274747 enclosures (from the cache), 0.1s
+N12456: 264482 enclosures (from the cache), 0.0s
+N1248: 1901 enclosures (from the cache), 0.0s
+N1246: 1701 enclosures (from the cache), 0.0s
+N1245: 1427 enclosures (from the cache), 0.0s
+N124: 6 enclosures (0 possibly in range), 0.0s
+[chunks] split 6 (delta): 5/11 chunks done (VN.3: hits 0, undecided 0, C11 0, 2.5 s)
+[chunks] split 6 (delta): 6/11 chunks done (VN.4: hits 0, undecided 0, C11 0, 2.3 s)
+N12348: 286170 enclosures (from the cache), 0.2s
+N12346: 258160 enclosures (from the cache), 0.0s
+N1234: 1113 enclosures (from the cache), 0.0s
+[chunks] split 6 (delta): 7/11 chunks done (VN.5: hits 0, undecided 0, C11 0, 2.0 s)
+N12345: 207515 enclosures (from the cache), 0.0s
+[chunks] split 6 (delta): 8/11 chunks done (VN.6: hits 0, undecided 0, C11 0, 2.3 s)
+[chunks] split 6 (delta): 9/11 chunks done (VN.8: hits 0, undecided 0, C11 0, 2.3 s)
+[chunks] split 6 (delta): 10/11 chunks done (VN.r2: hits 0, undecided 0, C11 0, 0.4 s)
+[chunks] split 6 (delta): 11/11 chunks done (VN.r3: hits 0, undecided 0, C11 0, 11.5 s)
+RESULT delta split 6 S1=7: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 29.5s
+[chunks] split 9 (delta): 1/10 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 9 (delta): 2/10 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 9 (delta): 3/10 chunks done (VN.2: hits 0, undecided 0, C11 0, 5.4 s)
+[chunks] split 9 (delta): 4/10 chunks done (VN.4: hits 0, undecided 0, C11 0, 3.2 s)
+[chunks] split 9 (delta): 5/10 chunks done (VN.5: hits 0, undecided 0, C11 0, 3.9 s)
+[chunks] split 9 (delta): 6/10 chunks done (VN.6: hits 0, undecided 0, C11 0, 2.0 s)
+[chunks] split 9 (delta): 7/10 chunks done (VN.7: hits 0, undecided 0, C11 0, 1.7 s)
+[chunks] split 9 (delta): 8/10 chunks done (VN.8: hits 0, undecided 0, C11 0, 1.5 s)
+[chunks] split 9 (delta): 9/10 chunks done (VN.r2: hits 0, undecided 0, C11 0, 2.3 s)
+[chunks] split 9 (delta): 10/10 chunks done (VN.r3: hits 0, undecided 0, C11 0, 0.8 s)
+RESULT delta split 9 S1=13: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 20.7s
+[chunks] split 12 (delta): 1/10 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 12 (delta): 2/10 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 12 (delta): 3/10 chunks done (VN.2: hits 0, undecided 0, C11 0, 6.9 s)
+[chunks] split 12 (delta): 4/10 chunks done (VN.3: hits 0, undecided 0, C11 0, 1.9 s)
+[chunks] split 12 (delta): 5/10 chunks done (VN.4: hits 0, undecided 0, C11 0, 2.6 s)
+[chunks] split 12 (delta): 6/10 chunks done (VN.5: hits 0, undecided 0, C11 0, 3.9 s)
+[chunks] split 12 (delta): 7/10 chunks done (VN.7: hits 0, undecided 0, C11 0, 1.4 s)
+[chunks] split 12 (delta): 8/10 chunks done (VN.8: hits 0, undecided 0, C11 0, 1.4 s)
+[chunks] split 12 (delta): 9/10 chunks done (VN.r2: hits 0, undecided 0, C11 0, 2.0 s)
+[chunks] split 12 (delta): 10/10 chunks done (VN.r3: hits 0, undecided 0, C11 0, 0.7 s)
+RESULT delta split 12 S1=16: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 20.8s
+[chunks] split 15 (delta): 1/10 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 15 (delta): 2/10 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 15 (delta): 3/10 chunks done (VN.1: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 15 (delta): 4/10 chunks done (VN.4: hits 0, undecided 0, C11 0, 0.1 s)
+N14678: 453726 enclosures (from the cache), 0.4s
+[chunks] split 15 (delta): 5/10 chunks done (VN.5: hits 0, undecided 0, C11 0, 0.5 s)
+N14578: 431344 enclosures (from the cache), 0.2s
+[chunks] split 15 (delta): 6/10 chunks done (VN.6: hits 0, undecided 0, C11 0, 0.3 s)
+[chunks] split 15 (delta): 7/10 chunks done (VN.7: hits 0, undecided 0, C11 0, 0.1 s)
+N14567: 413089 enclosures (from the cache), 0.0s
+[chunks] split 15 (delta): 8/10 chunks done (VN.8: hits 0, undecided 0, C11 0, 0.1 s)
+N1478: 2831 enclosures (from the cache), 0.0s
+N1467: 2651 enclosures (from the cache), 0.0s
+N1457: 2545 enclosures (from the cache), 0.0s
+[chunks] split 15 (delta): 9/10 chunks done (VN.r2: hits 0, undecided 0, C11 0, 1.1 s)
+N147: 14 enclosures (0 possibly in range), 0.0s
+[chunks] split 15 (delta): 10/10 chunks done (VN.r3: hits 0, undecided 0, C11 0, 0.7 s)
+RESULT delta split 15 S1=23: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 2.9s
+[chunks] split 18 (delta): 1/10 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 18 (delta): 2/10 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+near1 V34578: 52941 candidates of motor B, 51777 with |ln v| <= 1e-11, 10.9s
+[chunks] split 18 (delta): 3/10 chunks done (VN.1: hits 0, undecided 0, C11 0, 12.3 s)
+[chunks] split 18 (delta): 4/10 chunks done (VN.3: hits 0, undecided 0, C11 0, 2.3 s)
+[chunks] split 18 (delta): 5/10 chunks done (VN.4: hits 0, undecided 0, C11 0, 2.2 s)
+N13478: 407661 enclosures (from the cache), 0.2s
+[chunks] split 18 (delta): 6/10 chunks done (VN.5: hits 0, undecided 0, C11 0, 1.5 s)
+[chunks] split 18 (delta): 7/10 chunks done (VN.7: hits 0, undecided 0, C11 0, 1.5 s)
+N13457: 351543 enclosures (from the cache), 0.0s
+[chunks] split 18 (delta): 8/10 chunks done (VN.8: hits 0, undecided 0, C11 0, 1.0 s)
+N1347: 2179 enclosures (from the cache), 0.0s
+[chunks] split 18 (delta): 9/10 chunks done (VN.r2: hits 0, undecided 0, C11 0, 1.9 s)
+[chunks] split 18 (delta): 10/10 chunks done (VN.r3: hits 0, undecided 0, C11 0, 0.9 s)
+RESULT delta split 18 S1=26: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 23.6s
+[chunks] split 21 (delta): 1/10 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 21 (delta): 2/10 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 21 (delta): 3/10 chunks done (VN.1: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 21 (delta): 4/10 chunks done (VN.2: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 21 (delta): 5/10 chunks done (VN.5: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 21 (delta): 6/10 chunks done (VN.6: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 21 (delta): 7/10 chunks done (VN.7: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 21 (delta): 8/10 chunks done (VN.8: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 21 (delta): 9/10 chunks done (VN.r2: hits 0, undecided 0, C11 0, 0.9 s)
+[chunks] split 21 (delta): 10/10 chunks done (VN.r3: hits 0, undecided 0, C11 0, 0.7 s)
+RESULT delta split 21 S1=34: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 2.0s
+[chunks] split 24 (delta): 1/10 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 24 (delta): 2/10 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+near1 V24568: 37779 candidates of motor B, 37013 with |ln v| <= 1e-11, 7.4s
+[chunks] split 24 (delta): 3/10 chunks done (VN.1: hits 0, undecided 0, C11 0, 10.0 s)
+[chunks] split 24 (delta): 4/10 chunks done (VN.2: hits 0, undecided 0, C11 0, 5.0 s)
+[chunks] split 24 (delta): 5/10 chunks done (VN.4: hits 0, undecided 0, C11 0, 3.3 s)
+[chunks] split 24 (delta): 6/10 chunks done (VN.5: hits 0, undecided 0, C11 0, 3.4 s)
+[chunks] split 24 (delta): 7/10 chunks done (VN.6: hits 0, undecided 0, C11 0, 1.7 s)
+[chunks] split 24 (delta): 8/10 chunks done (VN.8: hits 0, undecided 0, C11 0, 2.6 s)
+[chunks] split 24 (delta): 9/10 chunks done (VN.r2: hits 0, undecided 0, C11 0, 3.3 s)
+[chunks] split 24 (delta): 10/10 chunks done (VN.r3: hits 0, undecided 0, C11 0, 1.0 s)
+RESULT delta split 24 S1=37: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 30.3s
+[chunks] split 27 (delta): 1/10 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 27 (delta): 2/10 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+near1 V23578: 42047 candidates of motor B, 41235 with |ln v| <= 1e-11, 9.4s
+[chunks] split 27 (delta): 3/10 chunks done (VN.1: hits 0, undecided 0, C11 0, 11.2 s)
+[chunks] split 27 (delta): 4/10 chunks done (VN.2: hits 0, undecided 0, C11 0, 3.1 s)
+[chunks] split 27 (delta): 5/10 chunks done (VN.3: hits 0, undecided 0, C11 0, 1.4 s)
+[chunks] split 27 (delta): 6/10 chunks done (VN.5: hits 0, undecided 0, C11 0, 2.8 s)
+[chunks] split 27 (delta): 7/10 chunks done (VN.7: hits 0, undecided 0, C11 0, 1.3 s)
+[chunks] split 27 (delta): 8/10 chunks done (VN.8: hits 0, undecided 0, C11 0, 1.2 s)
+[chunks] split 27 (delta): 9/10 chunks done (VN.r2: hits 0, undecided 0, C11 0, 1.9 s)
+[chunks] split 27 (delta): 10/10 chunks done (VN.r3: hits 0, undecided 0, C11 0, 0.8 s)
+RESULT delta split 27 S1=46: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 23.7s
+[chunks] split 30 (delta): 1/10 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 30 (delta): 2/10 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+near1 V23478: 47887 candidates of motor B, 46763 with |ln v| <= 1e-11, 10.7s
+[chunks] split 30 (delta): 3/10 chunks done (VN.1: hits 0, undecided 0, C11 0, 12.2 s)
+[chunks] split 30 (delta): 4/10 chunks done (VN.2: hits 0, undecided 0, C11 0, 1.8 s)
+N12478: 353727 enclosures (from the cache), 0.2s
+[chunks] split 30 (delta): 5/10 chunks done (VN.3: hits 0, undecided 0, C11 0, 2.0 s)
+[chunks] split 30 (delta): 6/10 chunks done (VN.4: hits 0, undecided 0, C11 0, 1.3 s)
+[chunks] split 30 (delta): 7/10 chunks done (VN.7: hits 0, undecided 0, C11 0, 1.1 s)
+N12347: 280748 enclosures (from the cache), 0.0s
+[chunks] split 30 (delta): 8/10 chunks done (VN.8: hits 0, undecided 0, C11 0, 1.3 s)
+N1247: 1869 enclosures (from the cache), 0.0s
+[chunks] split 30 (delta): 9/10 chunks done (VN.r2: hits 0, undecided 0, C11 0, 1.8 s)
+[chunks] split 30 (delta): 10/10 chunks done (VN.r3: hits 0, undecided 0, C11 0, 1.0 s)
+RESULT delta split 30 S1=56: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 22.5s
+[chunks] split 33 (delta): 1/10 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 33 (delta): 2/10 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+near1 V23458: 36989 candidates of motor B, 36259 with |ln v| <= 1e-11, 7.2s
+[chunks] split 33 (delta): 3/10 chunks done (VN.1: hits 0, undecided 0, C11 0, 8.9 s)
+[chunks] split 33 (delta): 4/10 chunks done (VN.2: hits 0, undecided 0, C11 0, 4.8 s)
+[chunks] split 33 (delta): 5/10 chunks done (VN.3: hits 0, undecided 0, C11 0, 1.9 s)
+[chunks] split 33 (delta): 6/10 chunks done (VN.4: hits 0, undecided 0, C11 0, 2.3 s)
+[chunks] split 33 (delta): 7/10 chunks done (VN.5: hits 0, undecided 0, C11 0, 3.4 s)
+[chunks] split 33 (delta): 8/10 chunks done (VN.8: hits 0, undecided 0, C11 0, 1.6 s)
+[chunks] split 33 (delta): 9/10 chunks done (VN.r2: hits 0, undecided 0, C11 0, 2.4 s)
+[chunks] split 33 (delta): 10/10 chunks done (VN.r3: hits 0, undecided 0, C11 0, 0.9 s)
+RESULT delta split 33 S1=67: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 26.2s
+near1 V45678: 54793 candidates of motor B, 53315 with |ln v| <= 1e-11, 12.9s
+[chunks] split 36 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 12.9 s)
+[chunks] split 36 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 36 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 36 S1=123: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 13.0s
+[chunks] split 39 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.2 s)
+[chunks] split 39 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 39 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 39 S1=126: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.2s
+near1 V25678: 43679 candidates of motor B, 42513 with |ln v| <= 1e-11, 9.7s
+[chunks] split 42 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 9.8 s)
+[chunks] split 42 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 42 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 42 S1=134: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 9.8s
+[chunks] split 45 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 45 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 45 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 45 S1=137: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[chunks] split 48 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 48 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 48 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 48 S1=146: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[chunks] split 51 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.2 s)
+[chunks] split 51 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 51 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 51 S1=156: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.2s
+[chunks] split 54 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 54 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 54 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 54 S1=167: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.2s
+near1 V15678: 39639 candidates of motor B, 38506 with |ln v| <= 1e-11, 8.0s
+[chunks] split 57 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 8.1 s)
+[chunks] split 57 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 57 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 57 S1=234: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 8.2s
+near1 V14568: 35893 candidates of motor B, 35195 with |ln v| <= 1e-11, 8.7s
+[chunks] split 60 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 8.9 s)
+[chunks] split 60 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 60 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 60 S1=237: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 8.9s
+near1 V13578: 38181 candidates of motor B, 37491 with |ln v| <= 1e-11, 8.7s
+[progress] delta hit 1/6 (16.7%) values 4 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/6 (33.3%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/6 (50.0%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/6 (66.7%) values 4 undecided_c7 0 undecided_c11 0
+[progress] delta hit 5/6 (83.3%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 6/6 (100.0%) values 3 undecided_c7 0 undecided_c11 0
+[chunks] split 63 (delta): 1/3 chunks done (NU: hits 6, undecided 0, C11 0, 8.9 s)
+[progress] delta hit 1/2 (50.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/2 (100.0%) values 2 undecided_c7 0 undecided_c11 0
+[chunks] split 63 (delta): 2/3 chunks done (VN: hits 2, undecided 0, C11 0, 0.0 s)
+[chunks] split 63 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 63 S1=246: hits 8, undecided 0, C11 undecided 0 (certainly inside 0), cpu 8.9s
+near1 V13478: 37453 candidates of motor B, 36533 with |ln v| <= 1e-11, 9.7s
+[progress] delta hit 1/4 (25.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/4 (50.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/4 (75.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/4 (100.0%) values 2 undecided_c7 0 undecided_c11 0
+[chunks] split 66 (delta): 1/3 chunks done (NU: hits 4, undecided 0, C11 0, 9.8 s)
+[chunks] split 66 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 66 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 66 S1=256: hits 4, undecided 0, C11 undecided 0 (certainly inside 0), cpu 9.8s
+near1 V13458: 35321 candidates of motor B, 34744 with |ln v| <= 1e-11, 7.3s
+[chunks] split 69 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 7.5 s)
+[chunks] split 69 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 69 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 69 S1=267: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 7.5s
+near1 V12678: 38935 candidates of motor B, 37941 with |ln v| <= 1e-11, 8.3s
+[chunks] split 72 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 8.3 s)
+[progress] delta hit 1/2 (50.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/2 (100.0%) values 2 undecided_c7 0 undecided_c11 0
+[chunks] split 72 (delta): 2/3 chunks done (VN: hits 2, undecided 0, C11 0, 0.0 s)
+[chunks] split 72 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 72 S1=345: hits 2, undecided 0, C11 undecided 0 (certainly inside 0), cpu 8.4s
+near1 V12567: 29425 candidates of motor B, 28537 with |ln v| <= 1e-11, 5.4s
+[progress] delta hit 1/2 (50.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/2 (100.0%) values 2 undecided_c7 0 undecided_c11 0
+[chunks] split 75 (delta): 1/3 chunks done (NU: hits 2, undecided 0, C11 0, 5.7 s)
+[chunks] split 75 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 75 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 75 S1=348: hits 2, undecided 0, C11 undecided 0 (certainly inside 0), cpu 5.7s
+near1 V12467: 33977 candidates of motor B, 33081 with |ln v| <= 1e-11, 7.6s
+N12467: 338818 enclosures (from the cache), 0.0s
+[progress] delta hit 1/8 (12.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/8 (25.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/8 (37.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/8 (50.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 5/8 (62.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 6/8 (75.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 7/8 (87.5%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 8/8 (100.0%) values 2 undecided_c7 0 undecided_c11 0
+[chunks] split 78 (delta): 1/3 chunks done (NU: hits 8, undecided 0, C11 0, 7.8 s)
+[chunks] split 78 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 78 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 78 S1=358: hits 8, undecided 0, C11 undecided 0 (certainly inside 0), cpu 7.9s
+near1 V12456: 25739 candidates of motor B, 25201 with |ln v| <= 1e-11, 5.5s
+[chunks] split 81 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 5.7 s)
+[chunks] split 81 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 81 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 81 S1=378: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 5.8s
+near1 V12367: 34289 candidates of motor B, 33499 with |ln v| <= 1e-11, 8.5s
+[progress] delta hit 1/6 (16.7%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/6 (33.3%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/6 (50.0%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/6 (66.7%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 5/6 (83.3%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 6/6 (100.0%) values 3 undecided_c7 0 undecided_c11 0
+[chunks] split 84 (delta): 1/3 chunks done (NU: hits 6, undecided 0, C11 0, 8.7 s)
+[chunks] split 84 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 84 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 84 S1=458: hits 6, undecided 0, C11 undecided 0 (certainly inside 0), cpu 8.8s
+near1 V12356: 27005 candidates of motor B, 26382 with |ln v| <= 1e-11, 7.0s
+[chunks] split 87 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 7.1 s)
+[chunks] split 87 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 87 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 87 S1=478: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 7.1s
+near1 V12346: 30673 candidates of motor B, 30065 with |ln v| <= 1e-11, 5.1s
+[progress] delta hit 1/4 (25.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/4 (50.0%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/4 (75.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/4 (100.0%) values 3 undecided_c7 0 undecided_c11 0
+[chunks] split 90 (delta): 1/3 chunks done (NU: hits 4, undecided 0, C11 0, 5.3 s)
+[progress] delta hit 1/2 (50.0%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/2 (100.0%) values 2 undecided_c7 0 undecided_c11 0
+[chunks] split 90 (delta): 2/3 chunks done (VN: hits 2, undecided 0, C11 0, 0.0 s)
+[chunks] split 90 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 90 S1=578: hits 6, undecided 0, C11 undecided 0 (certainly inside 0), cpu 5.4s
+[progress] delta hit 1/4 (25.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/4 (50.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/4 (75.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/4 (100.0%) values 1 undecided_c7 0 undecided_c11 0
+[chunks] split 93 (delta): 1/3 chunks done (NU: hits 4, undecided 0, C11 0, 0.1 s)
+[chunks] split 93 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 93 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 93 S1=1235: hits 4, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[chunks] split 96 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 96 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 96 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 96 S1=1238: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[progress] delta hit 1/18 (5.6%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/18 (11.1%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/18 (16.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/18 (22.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 5/18 (27.8%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 6/18 (33.3%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 7/18 (38.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 8/18 (44.4%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 9/18 (50.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 10/18 (55.6%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 11/18 (61.1%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 12/18 (66.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 13/18 (72.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 14/18 (77.8%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 15/18 (83.3%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 16/18 (88.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 17/18 (94.4%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 18/18 (100.0%) values 1 undecided_c7 0 undecided_c11 0
+[chunks] split 99 (delta): 1/3 chunks done (NU: hits 18, undecided 0, C11 0, 0.1 s)
+[chunks] split 99 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 99 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 99 S1=1247: hits 18, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[chunks] split 102 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 102 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 102 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 102 S1=1257: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[progress] delta hit 1/36 (2.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/36 (5.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/36 (8.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/36 (11.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 5/36 (13.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 6/36 (16.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 7/36 (19.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 8/36 (22.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 9/36 (25.0%) values 6 undecided_c7 0 undecided_c11 0
+[progress] delta hit 10/36 (27.8%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 11/36 (30.6%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 12/36 (33.3%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 13/36 (36.1%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 14/36 (38.9%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 15/36 (41.7%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 16/36 (44.4%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 17/36 (47.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 18/36 (50.0%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 19/36 (52.8%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 20/36 (55.6%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 21/36 (58.3%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 22/36 (61.1%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 23/36 (63.9%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 24/36 (66.7%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 25/36 (69.4%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 26/36 (72.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 27/36 (75.0%) values 6 undecided_c7 0 undecided_c11 0
+[progress] delta hit 28/36 (77.8%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 29/36 (80.6%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 30/36 (83.3%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 31/36 (86.1%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 32/36 (88.9%) values 2 undecided_c7 0 undecided_c11 0
+[progress] delta hit 33/36 (91.7%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 34/36 (94.4%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 35/36 (97.2%) values 1 undecided_c7 0 undecided_c11 0
+[progress] delta hit 36/36 (100.0%) values 1 undecided_c7 0 undecided_c11 0
+[chunks] split 105 (delta): 1/3 chunks done (NU: hits 36, undecided 0, C11 0, 0.2 s)
+[chunks] split 105 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 105 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 105 S1=1268: hits 36, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.2s
+[chunks] split 108 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 108 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 108 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 108 S1=1346: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[chunks] split 111 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 111 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 111 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 111 S1=1356: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[chunks] split 114 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 114 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 114 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 114 S1=1367: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[progress] delta hit 1/4 (25.0%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 2/4 (50.0%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 3/4 (75.0%) values 3 undecided_c7 0 undecided_c11 0
+[progress] delta hit 4/4 (100.0%) values 3 undecided_c7 0 undecided_c11 0
+[chunks] split 117 (delta): 1/3 chunks done (NU: hits 4, undecided 0, C11 0, 0.1 s)
+[chunks] split 117 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 117 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 117 S1=1456: hits 4, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[chunks] split 120 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 120 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 120 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 120 S1=1467: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[chunks] split 123 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.1 s)
+[chunks] split 123 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 123 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 123 S1=1567: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+[chunks] split 126 (delta): 1/3 chunks done (NU: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 126 (delta): 2/3 chunks done (VN: hits 0, undecided 0, C11 0, 0.0 s)
+[chunks] split 126 (delta): 3/3 chunks done (VV: hits 0, undecided 0, C11 0, 0.0 s)
+RESULT delta split 126 S1=1678: hits 0, undecided 0, C11 undecided 0 (certainly inside 0), cpu 0.1s
+DONE 8 0 delta part 0/3
+
+real	6m56.975s
+user	6m38.265s
+sys	0m4.752s

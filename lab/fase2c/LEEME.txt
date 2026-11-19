@@ -1,0 +1,29 @@
+FASE 2c - C11 (sin menos unario) con n = 9 en cualquier orden. Nada mas: C7 ya esta certificado (fase2b) y C5 va aparte.
+Por constante (pi, gamma, delta), EN SERIE y un solo paso pesado cada vez:
+  1 motor A (ventana de C11, MOTORA_DEDUP=1, 4 hilos, ~13 GB de RAM)
+  2 motor C 1024 bits (4 procesos por bloques, reanudable)   3 join
+  4 motor C 2048 bits (4 procesos por bloques, reanudable)   5 join
+  6 verificador de C11 (c11_par.py, FULLMAX=3, 4 procesos de ~0,3 GB; reanudable por trozos)
+Sin atajo (fue lo que lleno la memoria en fase2b). Si una constante falla, las otras siguen.
+Carpeta: D:\Daniel\Pandigital\fase2c (al lado de c7). No usa ni toca fase2 ni fase2b; de ..\c7 solo lee res_9_0.txt.
+No instala nada ni toca ajustes: usa el Python del equipo (py -3.13) con pylib\ (python-flint 0.9.0, sympy 1.14.0,
+mpmath 1.3.0) y los motora.exe / motorc.exe de fase2b (bin\, SHA-256 en HASHES.txt). Solo escribe dentro de esta
+carpeta; prioridad baja; nunca borra (renombra).
+
+Memoria: un paso no se lanza si no hay RAM libre suficiente (motor A 14 GB, motor C 16 GB, verificador ~4 GB): espera
+y lo avisa en fase2.log. Mientras corre el verificador, si la RAM libre baja de 1,5 GB o la memoria virtual libre
+(RAM + archivo de paginacion) de 3 GB, lo para y lo relanza con un proceso menos, desde su checkpoint.
+Procesos: se identifican por PID + hora de creacion; parar_fase2.bat nunca toca otro programa ni ventana.
+
+Tiempos estimados (por constante): motor A ~6-8 h | motor C ~2-4 h | verificador ~3-8 h. Total ~2-3 dias.
+
+1. autotest_fase2.bat -> AUTOTEST OK (5-15 min): hashes, Python, T1-T5 de los motores, identificacion de procesos,
+   la cadena completa del orquestador en pequeno (n = 6, con una parada por memoria simulada) y el verificador
+   con n = 9 sobre caminos reales. Si dice FALLA, no lanzar nada y pasar autotest_fase2.log.
+2. lanzar_fase2.bat   -> lanza el orquestador en segundo plano. Tras un corte o un reinicio: volver a lanzarlo
+   (reanuda; un motor A a medias se repite, solo esa constante).
+3. estado_fase2.bat   -> SOLO LECTURA: % de cada paso, horas restantes estimadas, memoria libre, avisos, procesos.
+   fase2.log: un bloque cada 30 min y una linea por evento. Logs de cada proceso en work\logs\.
+4. Para pararlo (solo si Claude o Daniel lo piden): parar_fase2.bat. Lo hecho se conserva.
+5. Cuando existe fase2_fin.txt: devolver resultados_fase2c.zip (y fase2.log).
+Avisar a Claude si estado_fase2.bat muestra FALLO, bloqueado o "esperando memoria" durante horas.

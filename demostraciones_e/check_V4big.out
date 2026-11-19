@@ -1,0 +1,7 @@
+('0', '2', '3', '4') X 30.0 full-set values above threshold: 640  in V4big: 720  missing: 0 (1s)
+('0', '2', '3', '4') A 3.0 full-set values above threshold: 1448  in V4big: 1560  missing: 0 (1s)
+('2', '5', '7', '9') X 60.0 full-set values above threshold: 7708  in V4big: 8940  missing: 0 (38s)
+('2', '5', '7', '9') A 4.0 full-set values above threshold: 12384  in V4big: 13728  missing: 0 (56s)
+('0', '3', '6', '8') X 100.0 full-set values above threshold: 426  in V4big: 458  missing: 0 (1s)
+('0', '3', '6', '8') A 4.5 full-set values above threshold: 852  in V4big: 900  missing: 0 (1s)
+TOTAL MISSING: 0

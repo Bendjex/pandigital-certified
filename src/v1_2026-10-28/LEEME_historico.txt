@@ -1,0 +1,4 @@
+Historical scripts of the first version (28 Oct - 1 Nov 2026), kept for reference.  They contain paths of the
+original working session (cd /tmp/..., /mnt/user-data/..., ../c7_templates) and call the first motor C binary
+(motorc_new), so they do not run as delivered.  The large cells were finally run with the laboratory packages
+lab/fase2b (motor C and motor B for C7) and lab/fase2c (C11), which use the optimised motors of src/.

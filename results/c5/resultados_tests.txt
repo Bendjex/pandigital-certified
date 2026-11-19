@@ -1,0 +1,34 @@
+t_fwd | rc 0 | 5 s | bad 0
+t_fwd2 | rc 0 | 16 s | tested 20000, informative (S != 0) 19668, bad 0
+t_anchor | rc 0 | 8 s | tested 3000 bad 0
+t_pre | rc 0 | 7 s | form 8 l^-s meets 33542 MISSED 0
+t_pre2 | rc 0 | 3 s | tested 14007, with f(s, l) in the window 4501, missed 0
+t_level2 | rc 0 | 5 s | tested 20000, with f(s, l) in the window 11600, constraint active 6261, missed 0
+t_c2prop | rc 0 | 8 s | tested 16659, constraint active 13845, missed 0
+t_unique | rc 0 | 182 s | trials 200: bit-identical windows, differences 0
+t_factor | rc 0 | 12 s | tested 6000 powers, 159 equal pairs, 2841 different pairs with a lower bound, bad 0
+t_factor2 | rc 0 | 15 s | tested 6000 powers, 300 equal pairs, 2700 different pairs with a lower bound, 1348 mixed products, bad 0
+t_offset | rc 0 | 24 s | tested 19950, exact differences 6059, exact zeros 111, bad 0
+t_ancpow | rc 0 | 39 s | tested 4000 (anchored results 1456, exact results 727) bad 0
+t_ancrat | rc 0 | 62 s | R4: tested 1972, anchored results 1972, bad 0
+t_index | rc 0 | 184 s | trials 400 (bounded batches: cand_counts, groups, look_batches) differences 0
+t_pieces | rc 0 | 40 s | t_pieces: PROBLEMS 0
+t_xlibbits | rc 0 | 1 s | ln_hi 77cf15352f8a7dd7
+t_hc_smoke | rc 0 | 1 s | values 828 inside-or-undecided 828 fail 0
+t_exactv | rc 0 | 175 s | n=7 ord=0: windows 40, motor-B values certainly inside 30918, MISSED 0; time motor B 31.7s, exact_V 132.0s
+t_near1 | rc 0 | 403 s | windows 40: exact values of the recursion in the windows 441784, covered by rows 441784; problems 0
+t_narrow | rc 0 | 203 s | t_narrow: problems 0
+t_members | rc 0 | (repetido tras corregir el evaluador del test) | t_members: 19170 values with invariant I, 3892 removed values checked, 6162 ln_bounds, 13741 raw rows (dedup); motor B unresolved 0; PROBLEMS 0
+t_q (n = 5, N) | rc 0 | n=5 ord=0 kind=N: windows 300, materialised matches 285582, recursion hits 398191, UNCOVERED 0
+t_lvlanc exit 0: t_lvlanc: 1979 cases, decided 1979, problems 0
+t_lvlpw exit 0: t_lvlpw: 1799 equal pairs (1799 exact zeros), 1201 different pairs, 200 irrational exponents; problems 0
+t_lvlpf exit 0: irrational offsets: tested 596, bad 0
+t_lvltw exit 0: t_lvltw: 1243 equal pairs (1243 exact zeros), 757 different pairs (757 decided, none a false zero); problems 0
+t_lvl exit 0: compared 1724 bad 0 lvl Fail 1 too large for direct 261 {'q': 759, 'x': 922, 'anc': 33, 'lam': 10}
+t_c11multi | rc 0 | t_c11multi: 45 hits; problems 0
+t_vvmemo (10/11) | rc 0 | t_vvmemo (2..9) = (5, 7) | (2, 3, 4, 6, 8, 9), 17 windows: 0 hits; resolve_vv calls 328, ambiguous pairs 84176; calls that differ: 0
+t_batchrec (10/11) | rc 0 | N(2,3,4,6,8,9), 20 windows (+5 repeated): 1976241 hits; the three modes differ: 0; split by split differs: 0
+t_refine (11/11) | rc 0 | (1..9) = (1,2,3) | (4..9), 3 windows: 29304 hits; refine_base1 calls 4, hits refined 301971; calls that differ: 0
+t_members (10/11, version corta) | rc 0 | 4105 values with invariant I, 210 removed values checked; PROBLEMS 0
+t_pieces 1 (end to end, n = 8) | NO TERMINADO: lo mato el guardian de memoria de esta maquina (ejecutado a la vez que otros); la parte logica (1) pasa
+regresion (11/11, reg_final5.jsonl) | 45 casillas cerradas (n <= 7 cualquier orden, n <= 9 en orden; pi, gamma, delta, e): hits iguales a la regresion anterior (reg_final3), motor B sin decidir 0

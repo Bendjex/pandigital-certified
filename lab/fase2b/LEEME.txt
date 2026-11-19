@@ -1,0 +1,25 @@
+FASE 2b - lo que queda de n = 9 en cualquier orden, con los motores optimizados del 04/11 (opt_entrega):
+  C7  : motor C por bloques (4 procesos, 1024 bits, reanudable) -> join -> 2048 bits -> join -> motor B en paralelo
+        -> verificador de C11 sobre los mismos caminos (atajo: si el optimo no necesita el menos unario)
+  C11 : (empieza al acabar motor C de C7) motor A con MOTORA_DEDUP, 4 hilos, una constante por ejecucion
+        -> motor C por bloques -> 2048 bits -> verificador de C11
+  C5 no va en este paquete (fase 3, aparte; no corre a la vez).
+Carpeta: D:\Daniel\Pandigital\fase2b (al lado de c7). La carpeta fase2 antigua no se usa ni se toca.
+No instala nada ni toca ajustes: usa el Python del equipo (py -3.13) con pylib\ (python-flint 0.9.0, sympy 1.14.0,
+mpmath 1.3.0) y los motora.exe / motorc.exe nuevos (bin\, SHA-256 en HASHES.txt). Solo lee ..\c7 (c7_cand.txt,
+c7.log, c7_fin.txt, res_9_0.txt); solo escribe dentro de esta carpeta; prioridad baja; nunca borra.
+
+Tiempos estimados (opt_entrega, no medidos aun en una pasada completa):
+  C7 motor C 1024 bits ~15 h (12-20) | 2048 bits ~1 h | motor B 2-6 h | C11 motor A ~10,6 h por constante
+  | C11 motor C ~15-18 h en total | verificador de C11 pocas horas.  Total ~3 dias.
+RAM: motor C ~5 GB por proceso; motor A ~13 GB; verificadores ~2,5 GB por proceso.
+
+1. autotest_fase2.bat -> AUTOTEST OK (10-20 min): hashes, Python, T1-T5 de opt_entrega y un mini-calculo
+   completo (motor A, motor C, motor B, C11). Si dice FALLA, no lanzar nada y pasar autotest_fase2.log.
+2. lanzar_fase2.bat   -> lanza el orquestador en segundo plano (se identifica por su PID, no por el titulo de ninguna ventana). Tras un corte: volver a lanzarlo.
+   Motor C continua desde sus bloques hechos; un motor A a medias se repite (solo esa constante).
+3. estado_fase2.bat   -> SOLO LECTURA: % de cada tarea (motor C: bloques hechos), avisos, procesos.
+   fase2.log: un bloque cada 30 min y una linea por evento. Logs de cada proceso en work\logs\.
+4. Para pararlo (solo si Claude o Daniel lo piden): parar_fase2.bat (para por PID solo el orquestador y sus procesos). Lo hecho se conserva.
+5. Cuando existe fase2_principal_fin.txt: devolver resultados_fase2.zip y fase2.log.
+Avisar a Claude si estado_fase2.bat muestra FALLO o bloqueado.

@@ -1,0 +1,942 @@
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "gamma", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}, "c11": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s+l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s*l | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l/s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[s^-l | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/10 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[l^s | 1/1 | [|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]]"}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "delta", "split": 0, "prec": 400, "values": 0, "how": {"c7": {}}, "tags": {}, "first": ""}
+{"const": "pi", "split": 46, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/10 | 512/1] | [l^s | 4/1 | ((.6-.5)^-(2^7))]]"}
+{"const": "pi", "split": 46, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/10 | 512/1] | [l^s | 4/1 | ((.6-.5)^-(2^7))]]"}
+{"const": "gamma", "split": 46, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/10 | 512/1] | [l^s | 4/1 | ((.6-.5)^-(2^7))]]"}
+{"const": "gamma", "split": 46, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/10 | 512/1] | [l^s | 4/1 | ((.6-.5)^-(2^7))]]"}
+{"const": "delta", "split": 46, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/10 | 512/1] | [l^s | 4/1 | ((.6-.5)^-(2^7))]]"}
+{"const": "delta", "split": 46, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/10 | 512/1] | [l^s | 4/1 | ((.6-.5)^-(2^7))]]"}
+{"const": "pi", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^l | (2^.3) | 100000/1]]"}
+{"const": "pi", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^-l | (2^-.3) | 100000/1]]"}
+{"const": "pi", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^l | (2^.3) | 100000/1]]"}
+{"const": "pi", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^-l | (2^-.3) | 100000/1]]"}
+{"const": "gamma", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^l | (2^.3) | 100000/1]]"}
+{"const": "gamma", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^-l | (2^-.3) | 100000/1]]"}
+{"const": "gamma", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^l | (2^.3) | 100000/1]]"}
+{"const": "gamma", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^-l | (2^-.3) | 100000/1]]"}
+{"const": "delta", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^l | (2^.3) | 100000/1]]"}
+{"const": "delta", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^-l | (2^-.3) | 100000/1]]"}
+{"const": "delta", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^l | (2^.3) | 100000/1]]"}
+{"const": "delta", "split": 50, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 10000/1] | [s^-l | (2^-.3) | 100000/1]]"}
+{"const": "pi", "split": 58, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (2^(.3^-5)) | [l^s | 1/10 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "pi", "split": 58, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (2^(.3^-5)) | [l^s | 1/10 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "gamma", "split": 58, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (2^(.3^-5)) | [l^s | 1/10 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "gamma", "split": 58, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (2^(.3^-5)) | [l^s | 1/10 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "delta", "split": 58, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (2^(.3^-5)) | [l^s | 1/10 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "delta", "split": 58, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (2^(.3^-5)) | [l^s | 1/10 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "pi", "split": 64, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 4/1 | 78125/1] | [s*l | 1/1 | [s^l | 8/1 | 156250/3]]]"}
+{"const": "pi", "split": 64, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 4/1 | 78125/1] | [s*l | 1/1 | [s^l | 8/1 | 156250/3]]]"}
+{"const": "gamma", "split": 64, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 4/1 | 78125/1] | [s*l | 1/1 | [s^l | 8/1 | 156250/3]]]"}
+{"const": "gamma", "split": 64, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 4/1 | 78125/1] | [s*l | 1/1 | [s^l | 8/1 | 156250/3]]]"}
+{"const": "delta", "split": 64, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 4/1 | 78125/1] | [s*l | 1/1 | [s^l | 8/1 | 156250/3]]]"}
+{"const": "delta", "split": 64, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 4/1 | 78125/1] | [s*l | 1/1 | [s^l | 8/1 | 156250/3]]]"}
+{"const": "pi", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^l | (4^.1) | 78125/1]]"}
+{"const": "pi", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^-l | (4^-.1) | 78125/1]]"}
+{"const": "pi", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^l | (4^.1) | 78125/1]]"}
+{"const": "pi", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^-l | (4^-.1) | 78125/1]]"}
+{"const": "gamma", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^l | (4^.1) | 78125/1]]"}
+{"const": "gamma", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^-l | (4^-.1) | 78125/1]]"}
+{"const": "gamma", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^l | (4^.1) | 78125/1]]"}
+{"const": "gamma", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^-l | (4^-.1) | 78125/1]]"}
+{"const": "delta", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^l | (4^.1) | 78125/1]]"}
+{"const": "delta", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^-l | (4^-.1) | 78125/1]]"}
+{"const": "delta", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^l | (4^.1) | 78125/1]]"}
+{"const": "delta", "split": 66, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 2/1 | 15625/1] | [s^-l | (4^-.1) | 78125/1]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^l | (4^.1) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.1) | 234375/1]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^-l | (4^-.1) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.1) | 234375/1]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 12, "how": {"c7": {"exact": 12}, "c11": {"exact": 12}}, "tags": {"plain": 12}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}, "c11": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [s+l | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}, "c11": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [|s-l| | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | 4/1 | 46875/2]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^l | (4^.1) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.1) | 234375/1]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^-l | (4^-.1) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.1) | 234375/1]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 12, "how": {"c7": {"exact": 12}, "c11": {"exact": 12}}, "tags": {"plain": 12}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}, "c11": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [s+l | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}, "c11": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [|s-l| | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]"}
+{"const": "pi", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | 4/1 | 46875/2]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^l | (4^.1) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.1) | 234375/1]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^-l | (4^-.1) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.1) | 234375/1]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 12, "how": {"c7": {"exact": 12}, "c11": {"exact": 12}}, "tags": {"plain": 12}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}, "c11": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [s+l | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}, "c11": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [|s-l| | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | 4/1 | 46875/2]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^l | (4^.1) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.1) | 234375/1]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^-l | (4^-.1) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.1) | 234375/1]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 12, "how": {"c7": {"exact": 12}, "c11": {"exact": 12}}, "tags": {"plain": 12}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}, "c11": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [s+l | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}, "c11": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [|s-l| | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]"}
+{"const": "gamma", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | 4/1 | 46875/2]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^l | (4^.1) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.1) | 234375/1]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^-l | (4^-.1) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.1) | 234375/1]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 12, "how": {"c7": {"exact": 12}}, "tags": {"plain": 12}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [s+l | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [|s-l| | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | 4/1 | 46875/2]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^l | (4^.1) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.1) | 234375/1]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | ((4^3)^.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/1 | [s^-l | (4^-.1) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.1) | 234375/1]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | ((4^3)^-.1)]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s+l | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [|s-l| | 1/10 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 12, "how": {"c7": {"exact": 12}}, "tags": {"plain": 12}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^l | (4^.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 1/1 | [s^-l | (4^-.3) | 78125/1]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [s+l | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"ln>10": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 3/10 | [|s-l| | 1/10 | [s^l | 4/1 | 78125/1]]]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (4^.3) | 78125/1]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (4^-.3) | 78125/1]]"}
+{"const": "delta", "split": 70, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s*l | 1/1 | [s^l | 4/1 | 46875/2]]]"}
+{"const": "pi", "split": 72, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.3^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "pi", "split": 72, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.3^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "gamma", "split": 72, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.3^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "gamma", "split": 72, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.3^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "delta", "split": 72, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.3^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "delta", "split": 72, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.3^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "pi", "split": 74, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 4/1 | 2187/1] | [l^s | 6/1 | (8^((1+2)^5))]]"}
+{"const": "pi", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^l | (.5^-.6) | 100000000/6561]]"}
+{"const": "pi", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^-l | (.5^.6) | 100000000/6561]]"}
+{"const": "pi", "split": 74, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 4/1 | 2187/1] | [l^s | 6/1 | (8^((1+2)^5))]]"}
+{"const": "pi", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^l | (.5^-.6) | 100000000/6561]]"}
+{"const": "pi", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^-l | (.5^.6) | 100000000/6561]]"}
+{"const": "gamma", "split": 74, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 4/1 | 2187/1] | [l^s | 6/1 | (8^((1+2)^5))]]"}
+{"const": "gamma", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^l | (.5^-.6) | 100000000/6561]]"}
+{"const": "gamma", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^-l | (.5^.6) | 100000000/6561]]"}
+{"const": "gamma", "split": 74, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 4/1 | 2187/1] | [l^s | 6/1 | (8^((1+2)^5))]]"}
+{"const": "gamma", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^l | (.5^-.6) | 100000000/6561]]"}
+{"const": "gamma", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^-l | (.5^.6) | 100000000/6561]]"}
+{"const": "delta", "split": 74, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 4/1 | 2187/1] | [l^s | 6/1 | (8^((1+2)^5))]]"}
+{"const": "delta", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^l | (.5^-.6) | 100000000/6561]]"}
+{"const": "delta", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^-l | (.5^.6) | 100000000/6561]]"}
+{"const": "delta", "split": 74, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 4/1 | 2187/1] | [l^s | 6/1 | (8^((1+2)^5))]]"}
+{"const": "delta", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^l | (.5^-.6) | 100000000/6561]]"}
+{"const": "delta", "split": 74, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 4/1 | 10000000/2187] | [s^-l | (.5^.6) | 100000000/6561]]"}
+{"const": "pi", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "pi", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "pi", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^-s | 4/1 | (.2^((.6-.1)^-7))]]"}
+{"const": "pi", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "pi", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "pi", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "pi", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^-s | 4/1 | (.2^((.6-.1)^-7))]]"}
+{"const": "pi", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "gamma", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "gamma", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "gamma", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^-s | 4/1 | (.2^((.6-.1)^-7))]]"}
+{"const": "gamma", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "gamma", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "gamma", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "gamma", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^-s | 4/1 | (.2^((.6-.1)^-7))]]"}
+{"const": "gamma", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "delta", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "delta", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "delta", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^-s | 4/1 | (.2^((.6-.1)^-7))]]"}
+{"const": "delta", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "delta", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "delta", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 4/1 | (.2^-((.6-.1)^-7))]]"}
+{"const": "delta", "split": 78, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^-s | 4/1 | (.2^((.6-.1)^-7))]]"}
+{"const": "delta", "split": 78, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "pi", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 6/1 | 512/1] | [l^s | 4/1 | ((1+5)^(2^7))]]"}
+{"const": "pi", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 6/1 | 512/1] | [l^s | 4/1 | ((1+5)^(2^7))]]"}
+{"const": "gamma", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 6/1 | 512/1] | [l^s | 4/1 | ((1+5)^(2^7))]]"}
+{"const": "gamma", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 6/1 | 512/1] | [l^s | 4/1 | ((1+5)^(2^7))]]"}
+{"const": "delta", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 6/1 | 512/1] | [l^s | 4/1 | ((1+5)^(2^7))]]"}
+{"const": "delta", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 6/1 | 512/1] | [l^s | 4/1 | ((1+5)^(2^7))]]"}
+{"const": "pi", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(6^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "pi", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(6^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "gamma", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(6^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "gamma", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(6^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "delta", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(6^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "delta", "split": 80, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(6^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^((7-1)^3))]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 4, "how": {"c7": {"exact": 4}, "c11": {"exact": 4}}, "tags": {"plain": 4}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [l^s | 8/1 | (2^((1+7)^3))]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^((7-1)^3))]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 4, "how": {"c7": {"exact": 4}, "c11": {"exact": 4}}, "tags": {"plain": 4}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [l^s | 8/1 | (2^((1+7)^3))]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^((7-1)^3))]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 4, "how": {"c7": {"exact": 4}, "c11": {"exact": 4}}, "tags": {"plain": 4}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [l^s | 8/1 | (2^((1+7)^3))]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^((7-1)^3))]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 4, "how": {"c7": {"exact": 4}, "c11": {"exact": 4}}, "tags": {"plain": 4}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [l^s | 8/1 | (2^((1+7)^3))]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^((7-1)^3))]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 4, "how": {"c7": {"exact": 4}}, "tags": {"plain": 4}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [l^s | 8/1 | (2^((1+7)^3))]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^((7-1)^3))]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 4, "how": {"c7": {"exact": 4}}, "tags": {"plain": 4}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [l^s | 8/1 | (2^((1+7)^3))]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.5^-6)) | [l^s | 1/10 | [s^l | 8/1 | 1280/3]]]"}
+{"const": "pi", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.5^-6)) | [l^s | 1/10 | [s^l | 8/1 | 1280/3]]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.5^-6)) | [l^s | 1/10 | [s^l | 8/1 | 1280/3]]]"}
+{"const": "gamma", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.5^-6)) | [l^s | 1/10 | [s^l | 8/1 | 1280/3]]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.5^-6)) | [l^s | 1/10 | [s^l | 8/1 | 1280/3]]]"}
+{"const": "delta", "split": 82, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^(.5^-6)) | [l^s | 1/10 | [s^l | 8/1 | 1280/3]]]"}
+{"const": "pi", "split": 84, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^((1+7)^3))]]"}
+{"const": "pi", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "pi", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "pi", "split": 84, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^((1+7)^3))]]"}
+{"const": "pi", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "pi", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "gamma", "split": 84, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^((1+7)^3))]]"}
+{"const": "gamma", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "gamma", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "gamma", "split": 84, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^((1+7)^3))]]"}
+{"const": "gamma", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "gamma", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "delta", "split": 84, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^((1+7)^3))]]"}
+{"const": "delta", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "delta", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "delta", "split": 84, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^((1+7)^3))]]"}
+{"const": "delta", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 5/1 | 4096/1] | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]]]"}
+{"const": "delta", "split": 84, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 4096/1] | [s*l | 1/1 | [s^l | 2/1 | 4096/1]]]"}
+{"const": "delta", "split": 86, "prec": 400, "values": 1, "how": {"c7": {"interval": 1}}, "tags": {"plain": 1}, "first": "[s^l | [s^-l | 3/5 | 4096/1] | [|s-l| | 2/1 | (1+(5^(3^-7)))]]"}
+{"const": "delta", "split": 86, "prec": 400, "values": 1, "how": {"c7": {"interval": 1}}, "tags": {"plain": 1}, "first": "[s^-l | [s^l | 3/5 | 4096/1] | [|s-l| | 2/1 | (1+(5^(3^-7)))]]"}
+{"const": "pi", "split": 90, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s^l | 4/1 | (1*(2^(6/.3)))]]"}
+{"const": "pi", "split": 90, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s*l | 1/1 | [s^l | 4/1 | 1048576/1]]]"}
+{"const": "pi", "split": 90, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s^l | 4/1 | (1*(2^(6/.3)))]]"}
+{"const": "pi", "split": 90, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s*l | 1/1 | [s^l | 4/1 | 1048576/1]]]"}
+{"const": "gamma", "split": 90, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s^l | 4/1 | (1*(2^(6/.3)))]]"}
+{"const": "gamma", "split": 90, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s*l | 1/1 | [s^l | 4/1 | 1048576/1]]]"}
+{"const": "gamma", "split": 90, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s^l | 4/1 | (1*(2^(6/.3)))]]"}
+{"const": "gamma", "split": 90, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s*l | 1/1 | [s^l | 4/1 | 1048576/1]]]"}
+{"const": "delta", "split": 90, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s^l | 4/1 | (1*(2^(6/.3)))]]"}
+{"const": "delta", "split": 90, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s*l | 1/1 | [s^l | 4/1 | 1048576/1]]]"}
+{"const": "delta", "split": 90, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s^l | 4/1 | (1*(2^(6/.3)))]]"}
+{"const": "delta", "split": 90, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | 1/2 | 2097152/1] | [s*l | 1/1 | [s^l | 4/1 | 1048576/1]]]"}
+{"const": "pi", "split": 90, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(.5^-7)) | [l^s | 3/10 | [s^l | 4/1 | 640/1]]]"}
+{"const": "pi", "split": 90, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(.5^-7)) | [l^s | 3/10 | [s^l | 4/1 | 640/1]]]"}
+{"const": "gamma", "split": 90, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(.5^-7)) | [l^s | 3/10 | [s^l | 4/1 | 640/1]]]"}
+{"const": "gamma", "split": 90, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(.5^-7)) | [l^s | 3/10 | [s^l | 4/1 | 640/1]]]"}
+{"const": "delta", "split": 90, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(.5^-7)) | [l^s | 3/10 | [s^l | 4/1 | 640/1]]]"}
+{"const": "delta", "split": 90, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^(.5^-7)) | [l^s | 3/10 | [s^l | 4/1 | 640/1]]]"}
+{"const": "pi", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "pi", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "pi", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "pi", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "gamma", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "gamma", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "gamma", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "gamma", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "delta", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "delta", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "delta", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "delta", "split": 98, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "pi", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "pi", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "pi", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | (4^.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "pi", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | (4^-.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "pi", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "pi", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "pi", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | (4^.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "pi", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | (4^-.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "gamma", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "gamma", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "gamma", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | (4^.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "gamma", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | (4^-.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "gamma", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "gamma", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "gamma", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | (4^.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "gamma", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | (4^-.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "delta", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "delta", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "delta", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | (4^.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "delta", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | (4^-.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "delta", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 4096/1]] | [s^-l | 1/2 | 4096/1]]"}
+{"const": "delta", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^-l | 1/5 | 4096/1]] | [s^l | 5/1 | 4096/1]]"}
+{"const": "delta", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | (4^.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "delta", "split": 100, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^-l | (4^-.1) | 390625/1] | [s^-l | 1/2 | 78125/1]]"}
+{"const": "pi", "split": 104, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (16^(2^7)) | [l^s | 1/2 | [s^l | 4/1 | 512/1]]]"}
+{"const": "pi", "split": 104, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (16^(2^7)) | [l^s | 1/2 | [s^l | 4/1 | 512/1]]]"}
+{"const": "gamma", "split": 104, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (16^(2^7)) | [l^s | 1/2 | [s^l | 4/1 | 512/1]]]"}
+{"const": "gamma", "split": 104, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (16^(2^7)) | [l^s | 1/2 | [s^l | 4/1 | 512/1]]]"}
+{"const": "delta", "split": 104, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (16^(2^7)) | [l^s | 1/2 | [s^l | 4/1 | 512/1]]]"}
+{"const": "delta", "split": 104, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (16^(2^7)) | [l^s | 1/2 | [s^l | 4/1 | 512/1]]]"}
+{"const": "pi", "split": 106, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 720/1] | [l^s | 5/1 | (4^(6^3))]]"}
+{"const": "pi", "split": 106, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 2097152/1]] | [s^l | 4/1 | 1048576/1]]"}
+{"const": "pi", "split": 106, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 720/1] | [l^s | 5/1 | (4^(6^3))]]"}
+{"const": "pi", "split": 106, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 2097152/1]] | [s^l | 4/1 | 1048576/1]]"}
+{"const": "gamma", "split": 106, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 720/1] | [l^s | 5/1 | (4^(6^3))]]"}
+{"const": "gamma", "split": 106, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 2097152/1]] | [s^l | 4/1 | 1048576/1]]"}
+{"const": "gamma", "split": 106, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 720/1] | [l^s | 5/1 | (4^(6^3))]]"}
+{"const": "gamma", "split": 106, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 2097152/1]] | [s^l | 4/1 | 1048576/1]]"}
+{"const": "delta", "split": 106, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 720/1] | [l^s | 5/1 | (4^(6^3))]]"}
+{"const": "delta", "split": 106, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 2097152/1]] | [s^l | 4/1 | 1048576/1]]"}
+{"const": "delta", "split": 106, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 720/1] | [l^s | 5/1 | (4^(6^3))]]"}
+{"const": "delta", "split": 106, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 2/1 | 2097152/1]] | [s^l | 4/1 | 1048576/1]]"}
+{"const": "pi", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (2^.6) | 78125/1]]"}
+{"const": "pi", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (2^-.6) | 78125/1]]"}
+{"const": "pi", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (2^.6) | 78125/1]]"}
+{"const": "pi", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (2^-.6) | 78125/1]]"}
+{"const": "gamma", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (2^.6) | 78125/1]]"}
+{"const": "gamma", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (2^-.6) | 78125/1]]"}
+{"const": "gamma", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (2^.6) | 78125/1]]"}
+{"const": "gamma", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (2^-.6) | 78125/1]]"}
+{"const": "delta", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (2^.6) | 78125/1]]"}
+{"const": "delta", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (2^-.6) | 78125/1]]"}
+{"const": "delta", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^l | (2^.6) | 78125/1]]"}
+{"const": "delta", "split": 110, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [s^-l | (2^-.6) | 78125/1]]"}
+{"const": "pi", "split": 112, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "pi", "split": 112, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "gamma", "split": 112, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "gamma", "split": 112, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "delta", "split": 112, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "delta", "split": 112, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 5/1 | 512/1] | [l^s | 8/1 | (.2^-64)]]"}
+{"const": "pi", "split": 116, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^((7-1)^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "pi", "split": 116, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^((7-1)^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "gamma", "split": 116, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^((7-1)^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "gamma", "split": 116, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^((7-1)^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "delta", "split": 116, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^((7-1)^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "delta", "split": 116, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (8^((7-1)^3)) | [l^s | 1/2 | [s^l | 2/1 | 1296/1]]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^(6^3))]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^(8^3))]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 4/1 | 78125/1]] | [s^l | 8/1 | 156250/3]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^(6^3))]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^(8^3))]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 4/1 | 78125/1]] | [s^l | 8/1 | 156250/3]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^(6^3))]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^(8^3))]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 4/1 | 78125/1]] | [s^l | 8/1 | 156250/3]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^(6^3))]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^(8^3))]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 4/1 | 78125/1]] | [s^l | 8/1 | 156250/3]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^(6^3))]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^(8^3))]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 4/1 | 78125/1]] | [s^l | 8/1 | 156250/3]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | 1/2 | 1296/1] | [l^s | 2/1 | (8^(6^3))]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | 8/1 | 1024/1] | [l^s | 6/1 | (2^(8^3))]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 4/1 | 78125/1]] | [s^l | 8/1 | 156250/3]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | (4^.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 2/1 | 15625/1]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^-l | (4^-.1) | 78125/1] | [s^l | 8/1 | 15625/3]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^((1-.7)^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "pi", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^((1-.7)^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^((1-.7)^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "gamma", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^((1-.7)^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^((1-.7)^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "delta", "split": 118, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | (4^((1-.7)^-5)) | [l^s | 1/5 | [s^l | 8/1 | 1000000/729]]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 6, "how": {"c7": {"exact": 6}, "c11": {"exact": 6}}, "tags": {"plain": 6}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [s^l | 4/1 | 46875/2]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^s | 78125/1 | (3^.4)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^-s | 78125/1 | (3^-.4)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 6, "how": {"c7": {"exact": 6}, "c11": {"exact": 6}}, "tags": {"plain": 6}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [s^l | 4/1 | 46875/2]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^s | 78125/1 | (3^.4)]]"}
+{"const": "pi", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^-s | 78125/1 | (3^-.4)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 6, "how": {"c7": {"exact": 6}, "c11": {"exact": 6}}, "tags": {"plain": 6}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [s^l | 4/1 | 46875/2]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^s | 78125/1 | (3^.4)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^-s | 78125/1 | (3^-.4)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 6, "how": {"c7": {"exact": 6}, "c11": {"exact": 6}}, "tags": {"plain": 6}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [s^l | 4/1 | 46875/2]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}, "c11": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}, "c11": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^s | 78125/1 | (3^.4)]]"}
+{"const": "gamma", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}, "c11": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^-s | 78125/1 | (3^-.4)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 6, "how": {"c7": {"exact": 6}}, "tags": {"plain": 6}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [s^l | 4/1 | 46875/2]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^s | 78125/1 | (3^.4)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^-s | 78125/1 | (3^-.4)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s+l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/10 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [|s-l| | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 6, "how": {"c7": {"exact": 6}}, "tags": {"plain": 6}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 3/10 | [s^l | 4/1 | 78125/1]]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s*l | 1/1 | [s^l | 8/1 | 15625/1]] | [s^l | 4/1 | 46875/2]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 2, "how": {"c7": {"exact": 2}}, "tags": {"plain": 2}, "first": "[|s-l| | [l^s | 1/1 | [s^l | 8/1 | 15625/1]] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^s | 78125/1 | (4^.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 3, "how": {"c7": {"exact": 3}}, "tags": {"plain": 3}, "first": "[|s-l| | [s^l | 8/1 | 15625/1] | [l^-s | 78125/1 | (4^-.3)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^s | 78125/1 | (3^.4)]]"}
+{"const": "delta", "split": 124, "prec": 400, "values": 1, "how": {"c7": {"exact": 1}}, "tags": {"plain": 1}, "first": "[|s-l| | [s^l | 9/1 | 15625/1] | [l^-s | 78125/1 | (3^-.4)]]"}

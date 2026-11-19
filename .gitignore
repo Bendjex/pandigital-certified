@@ -1,0 +1,11 @@
+*.o
+*.so
+*.dll
+*.exe
+src/motora
+src/motora4
+src/motorc_new
+src/pend_*.tmp
+src/stage_*.log
+__pycache__/
+*.pyc

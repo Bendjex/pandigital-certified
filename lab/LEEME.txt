@@ -1,0 +1,14 @@
+C7 - certificacion de 9 digitos en cualquier orden (motor A, version corregida 28/10)
+
+No instala nada ni toca ajustes: solo escribe dentro de esta carpeta, con prioridad baja (BelowNormal).
+Memoria: unos 11 GB de RAM. Duracion estimada: del orden de 1 dia por constante con 4 hilos
+(pi, despues gamma, despues delta). Los candidatos de cada constante quedan escritos al terminarla.
+
+1. autotest_c7.bat  -> debe decir AUTOTEST OK (1-3 min). Si dice FALLA, no lanzar nada.
+2. lanzar_c7.bat    -> lanza el calculo en segundo plano en una ventana titulada C7 (opcional: hilos, p. ej. lanzar_c7.bat 4).
+3. estado_c7.bat    -> SOLO LECTURA: progreso en % con horas transcurridas y estimacion de las restantes
+                       (una linea cada 1 % de cada constante), uso de CPU, RAM e hilos.
+   Debe usar los 4 hilos (CPU_h crece unas 4 h por hora). Si en 6 h no aparece ninguna linea nueva de progreso,
+   o usa solo 1 hilo, avisar a Claude. Para pararlo (solo si Claude o Daniel lo piden):
+       taskkill /FI "WINDOWTITLE eq C7*" /T /F
+4. Al terminar (existe c7_fin.txt) devolver: c7_cand.txt (comprimido), c7.log, c7_inicio.txt, c7_fin.txt, ident6_hash.txt.

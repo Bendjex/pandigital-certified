@@ -1,0 +1,37 @@
+# Pruebas del paquete, 18-19/11/2026, Linux (Python 3.13.18, numpy 2.5.3, python-flint 0.9.0, mpmath 1.3.0), xlib.so compilada desde codigo/
+# (t_offset, t_cover y t_pieces se repitieron tras corregir el script y anadir measure.py; se dan las filas finales)
+OK    t_lvl           2275 s  rc 0  | compared 1724 bad 0 lvl Fail 1 too large for direct 261 {'q': 763, 'x': 918, 'anc': 33, 'lam': 10}
+OK    t_lvlanc          68 s  rc 0  | t_lvlanc: 1978 cases, decided 1978, problems 0
+OK    t_lvlpw            7 s  rc 0  | t_lvlpw: 1789 equal pairs (1789 exact zeros), 1211 different pairs, 200 irrational exponents; problems 0
+OK    t_lvlpf           81 s  rc 0  | irrational offsets: tested 184, bad 0
+OK    t_lvltw            2 s  rc 0  | t_lvltw: 376 equal pairs (376 exact zeros), 224 different pairs (224 decided, none a false zero); problems 0
+OK    t_lvltwc           1 s  rc 0  | t_lvltwc: 279 cancelling (279 exact), 298 perturbed (298 decided), 223 skipped; lab expression: no value (0^-7); PROBLEMS 0
+OK    t_lvllin           7 s  rc 0  | t_lvllin: 244/244 equal pairs give the exact 0, 244 perturbed pairs (0 false zeros), 244 exact results checked; lab expressions: no value, no value; PROBLEMS 0
+OK    t_lvloff           1 s  rc 0  | t_lvloff: 800 quotients checked; PROBLEMS 0
+OK    t_lvlanq          65 s  rc 0  | t_lvlanq: 60 powers of huge rationals near small ones, 3 squares of 2^K + c; PROBLEMS 0
+OK    t_lvlbin          56 s  rc 0  | t_lvlbin: 24 differences decided with the true ln inside, 24 exact zeros; PROBLEMS 0
+OK    t_lvlbound       231 s  rc 0  | t_lvlbound: 200 bounds of |e^x - e^y| hold, 20 anchored near-cancellations decided with the truth inside, 125 exact forms equal to their values, 198 tower identities exact, 66 recorded values (and constant) decided, 10 w
+OK    t_fwd2            17 s  rc 0  | tested 20000, informative (S != 0) 19668, bad 0
+OK    t_pre2             5 s  rc 0  | tested 14007, with f(s, l) in the window 4501, missed 0
+OK    t_level2           6 s  rc 0  | tested 20000, with f(s, l) in the window 11600, constraint active 6261, missed 0
+OK    t_c2prop           8 s  rc 0  | tested 16659, constraint active 13845, missed 0
+OK    t_ancpow          42 s  rc 0  | tested 4000 (anchored results 1456, exact results 727) bad 0
+OK    t_ancrat          59 s  rc 0  | R4: tested 1972, anchored results 1972, bad 0
+OK    t_onediff          1 s  rc 0  | t_onediff: 6000 branch constraints contain the true l; PROBLEMS 0
+OK    t_offset          24 s  rc 0  | tested 19950, exact differences 6059, exact zeros 111, bad 0
+OK    t_unique         181 s  rc 0  | trials 200: bit-identical windows, differences 0
+OK    t_index          144 s  rc 0  | trials 300 (bounded batches: cand_counts, groups, look_batches) differences 0
+OK    t_xlibbits         1 s  rc 0  | tables_n5 263217 0b54bfc4dc710db3
+OK    t_hc_smoke         2 s  rc 0  | values 828 inside-or-undecided 828 fail 0
+OK    t_c11multi       308 s  rc 0  | t_c11multi: 45 hits; problems 0
+OK    t_q              117 s  rc 0  | n=5 ord=0 kind=N: windows 300, materialised matches 285582, recursion hits 398191, UNCOVERED 0
+OK    t_near1          383 s  rc 0  | windows 40: exact values of the recursion in the windows 441784, covered by rows 441784; problems 0
+OK    t_exactv         158 s  rc 0  | n=7 ord=0: windows 40, motor-B values certainly inside 30918, MISSED 0; time motor B 27.0s, exact_V 120.4s
+OK    t_pieces          39 s  rc 0  | t_pieces: PROBLEMS 0
+OK    t_cover           44 s  rc 0  | MISSING 237 in total (first version of motor X: 237)
+# nivel n9 (tablas de n = 9):
+OK    t_coinc           84 s  rc 0  | t_coinc: OK ; motor B unresolved 0
+OK    t_exact1          17 s  rc 0  | t_exact1: 10920 (exact 1, s^l or s^-l, signed window) windows emptied (2840 of them were not empty before), 169080 other windows unchanged; PROBLEMS 0
+OK    t_hcleaf         102 s  rc 0  | t_hcleaf: 21248 members with a form among 98248; lab case: (5^-(4^-.9))^(8^.6) = <q 1/5>, |1/5 - z|^-7 has no value; PROBLEMS 0
+OK    t_release         24 s  rc 0  | t_release: 4 sets near 1, 4 V sets, 12 answers compared over 2 releases; PROBLEMS 0
+# no ejecutadas en esta ronda (nivel n9): t_members, t_narrow, t_vvmemo, t_refine, t_batchrec, t_recbatch, t_nearx; sus resultados con este codigo de consulta estan en motorx_changes.md

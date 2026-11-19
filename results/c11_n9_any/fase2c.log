@@ -1,0 +1,2177 @@
+10/11/2026 11:46:44  orquestador arrancado, pid 4996
+10/11/2026 11:46:44  c11_pi_1_motorA: lanzado (pids [14376], intento 1)
+=== 10/11/2026 11:46  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 56 h (estimacion) ===
+  c11_pi_1_motorA                0.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 25.0 GB, memoria virtual libre 31.6 GB
+  Avisos: ninguno
+
+=== 10/11/2026 12:16  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 50 h (estimacion) ===
+  c11_pi_1_motorA               17.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.7 GB, memoria virtual libre 20.9 GB
+  Avisos: ninguno
+
+=== 10/11/2026 12:46  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 51 h (estimacion) ===
+  c11_pi_1_motorA               26.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.3 GB, memoria virtual libre 20.4 GB
+  Avisos: ninguno
+
+=== 10/11/2026 13:16  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 51 h (estimacion) ===
+  c11_pi_1_motorA               31.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.1 GB, memoria virtual libre 20.2 GB
+  Avisos: ninguno
+
+=== 10/11/2026 13:46  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 51 h (estimacion) ===
+  c11_pi_1_motorA               42.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.0 GB, memoria virtual libre 20.0 GB
+  Avisos: ninguno
+
+=== 10/11/2026 14:16  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 50 h (estimacion) ===
+  c11_pi_1_motorA               51.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.0 GB, memoria virtual libre 20.1 GB
+  Avisos: ninguno
+
+=== 10/11/2026 14:46  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 50 h (estimacion) ===
+  c11_pi_1_motorA               57.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.8 GB, memoria virtual libre 19.9 GB
+  Avisos: ninguno
+
+=== 10/11/2026 15:16  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 50 h (estimacion) ===
+  c11_pi_1_motorA               64.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.6 GB, memoria virtual libre 19.8 GB
+  Avisos: ninguno
+
+=== 10/11/2026 15:46  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 49 h (estimacion) ===
+  c11_pi_1_motorA               76.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.5 GB, memoria virtual libre 19.5 GB
+  Avisos: ninguno
+
+=== 10/11/2026 16:16  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 49 h (estimacion) ===
+  c11_pi_1_motorA               83.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.5 GB, memoria virtual libre 19.5 GB
+  Avisos: ninguno
+
+=== 10/11/2026 16:46  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 49 h (estimacion) ===
+  c11_pi_1_motorA               85.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.4 GB, memoria virtual libre 19.3 GB
+  Avisos: ninguno
+
+=== 10/11/2026 17:16  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 48 h (estimacion) ===
+  c11_pi_1_motorA               93.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 12.5 GB, memoria virtual libre 19.1 GB
+  Avisos: ninguno
+
+=== 10/11/2026 17:47  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 48 h (estimacion) ===
+  c11_pi_1_motorA               95.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.3 GB, memoria virtual libre 19.0 GB
+  Avisos: ninguno
+
+=== 10/11/2026 18:17  FASE 2c (C11, n = 9): 0/18 pasos hechos; quedan unas 48 h (estimacion) ===
+  c11_pi_1_motorA               97.0 %  en curso
+  c11_pi_2_motorC1024            0.0 %  pendiente
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.1 GB, memoria virtual libre 18.4 GB
+  Avisos: ninguno
+
+10/11/2026 18:42:01  c11_pi_1_motorA: terminado (6.92 h)
+10/11/2026 18:42:32  c11_pi_2_motorC1024: lanzado (pids [13332, 26228, 2480, 20392], intento 1)
+=== 10/11/2026 18:47  FASE 2c (C11, n = 9): 1/18 pasos hechos; quedan unas 48 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024            0.0 %  en curso
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.0 GB, memoria virtual libre 17.4 GB
+  Avisos: ninguno
+
+=== 10/11/2026 19:17  FASE 2c (C11, n = 9): 1/18 pasos hechos; quedan unas 47 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024           13.8 %  en curso
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 18.1 GB, memoria virtual libre 17.1 GB
+  Avisos: ninguno
+
+=== 10/11/2026 19:47  FASE 2c (C11, n = 9): 1/18 pasos hechos; quedan unas 47 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024           25.5 %  en curso
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 17.7 GB, memoria virtual libre 17.1 GB
+  Avisos: ninguno
+
+=== 10/11/2026 20:17  FASE 2c (C11, n = 9): 1/18 pasos hechos; quedan unas 46 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024           37.3 %  en curso
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 17.3 GB, memoria virtual libre 17.1 GB
+  Avisos: ninguno
+
+=== 10/11/2026 20:47  FASE 2c (C11, n = 9): 1/18 pasos hechos; quedan unas 46 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024           49.1 %  en curso
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 17.2 GB, memoria virtual libre 17.0 GB
+  Avisos: ninguno
+
+=== 10/11/2026 21:17  FASE 2c (C11, n = 9): 1/18 pasos hechos; quedan unas 45 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024           62.2 %  en curso
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 16.8 GB, memoria virtual libre 16.9 GB
+  Avisos: ninguno
+
+=== 10/11/2026 21:47  FASE 2c (C11, n = 9): 1/18 pasos hechos; quedan unas 45 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024           72.5 %  en curso
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 16.9 GB, memoria virtual libre 16.9 GB
+  Avisos: ninguno
+
+=== 10/11/2026 22:17  FASE 2c (C11, n = 9): 1/18 pasos hechos; quedan unas 44 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024           84.8 %  en curso
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 16.8 GB, memoria virtual libre 16.8 GB
+  Avisos: ninguno
+
+=== 10/11/2026 22:47  FASE 2c (C11, n = 9): 1/18 pasos hechos; quedan unas 44 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024           97.4 %  en curso
+  c11_pi_3_join                  0.0 %  pendiente
+  c11_pi_4_motorC2048            0.0 %  pendiente
+  c11_pi_5_join                  0.0 %  pendiente
+  c11_pi_6_verificador           0.0 %  pendiente
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 17.1 GB, memoria virtual libre 16.8 GB
+  Avisos: ninguno
+
+10/11/2026 22:59:18  c11_pi_2_motorC1024: terminado (4.28 h)
+10/11/2026 22:59:48  c11_pi_3_join: lanzado (pids [11604], intento 1)
+10/11/2026 23:00:18  c11_pi_3_join: terminado (0.01 h)
+10/11/2026 23:00:48  c11_pi_4_motorC2048: lanzado (pids [22448, 17308, 23916, 11408], intento 1)
+10/11/2026 23:04:18  c11_pi_4_motorC2048: terminado (0.06 h)
+10/11/2026 23:04:48  c11_pi_5_join: lanzado (pids [17536], intento 1)
+10/11/2026 23:05:18  c11_pi_5_join: terminado (0.01 h)
+10/11/2026 23:05:18  c11_pi_5_join: 18451 caminos sobreviven a motor C (2048 bits) para π
+10/11/2026 23:05:48  c11_pi_6_verificador: lanzado (pids [20740], intento 1, 4 procesos)
+=== 10/11/2026 23:17  FASE 2c (C11, n = 9): 5/18 pasos hechos; quedan unas 43 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador           2.0 %  en curso  (4 procesos)
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 24.7 GB, memoria virtual libre 30.9 GB
+  Avisos: ninguno
+
+=== 10/11/2026 23:47  FASE 2c (C11, n = 9): 5/18 pasos hechos; quedan unas 42 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador          13.2 %  en curso  (4 procesos)
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 24.6 GB, memoria virtual libre 30.8 GB
+  Avisos: ninguno
+
+=== 11/11/2026 00:17  FASE 2c (C11, n = 9): 5/18 pasos hechos; quedan unas 40 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador          29.7 %  en curso  (4 procesos)
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 24.4 GB, memoria virtual libre 30.5 GB
+  Avisos: ninguno
+
+=== 11/11/2026 00:47  FASE 2c (C11, n = 9): 5/18 pasos hechos; quedan unas 39 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador          45.3 %  en curso  (4 procesos)
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.9 GB, memoria virtual libre 30.0 GB
+  Avisos: ninguno
+
+=== 11/11/2026 01:17  FASE 2c (C11, n = 9): 5/18 pasos hechos; quedan unas 39 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador          56.6 %  en curso  (4 procesos)
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.9 GB, memoria virtual libre 30.0 GB
+  Avisos: ninguno
+
+=== 11/11/2026 01:47  FASE 2c (C11, n = 9): 5/18 pasos hechos; quedan unas 38 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador          69.6 %  en curso  (4 procesos)
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.9 GB, memoria virtual libre 30.0 GB
+  Avisos: ninguno
+
+=== 11/11/2026 02:17  FASE 2c (C11, n = 9): 5/18 pasos hechos; quedan unas 38 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador          80.9 %  en curso  (4 procesos)
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.9 GB, memoria virtual libre 29.9 GB
+  Avisos: ninguno
+
+=== 11/11/2026 02:47  FASE 2c (C11, n = 9): 5/18 pasos hechos; quedan unas 38 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador          90.4 %  en curso  (4 procesos)
+  c11_gamma_1_motorA             0.0 %  pendiente
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 24.6 GB, memoria virtual libre 30.8 GB
+  Avisos: ninguno
+
+11/11/2026 03:04:28  c11_pi_6_verificador: terminado (3.98 h)
+11/11/2026 03:04:28  C11 π n = 9: optimo sin menos unario, error [8.119148275472453561112494e-14 +/- 1.48e-39], (2/((((.4^(5/(9-.3)))/6)-(.7/8))^.1)); sin decidir 0
+11/11/2026 03:04:58  c11_gamma_1_motorA: lanzado (pids [19792], intento 1)
+=== 11/11/2026 03:17  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 32 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA             8.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 15.4 GB, memoria virtual libre 21.2 GB
+  Avisos: ninguno
+
+=== 11/11/2026 03:47  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 32 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            21.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 15.0 GB, memoria virtual libre 20.8 GB
+  Avisos: ninguno
+
+=== 11/11/2026 04:17  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 32 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            27.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.8 GB, memoria virtual libre 20.4 GB
+  Avisos: ninguno
+
+=== 11/11/2026 04:47  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 32 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            35.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.6 GB, memoria virtual libre 20.2 GB
+  Avisos: ninguno
+
+=== 11/11/2026 05:17  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 32 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            47.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.5 GB, memoria virtual libre 20.0 GB
+  Avisos: ninguno
+
+=== 11/11/2026 05:47  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 32 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            52.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.5 GB, memoria virtual libre 20.1 GB
+  Avisos: ninguno
+
+=== 11/11/2026 06:17  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 32 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            58.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.3 GB, memoria virtual libre 19.8 GB
+  Avisos: ninguno
+
+=== 11/11/2026 06:47  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 31 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            67.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.1 GB, memoria virtual libre 19.4 GB
+  Avisos: ninguno
+
+=== 11/11/2026 07:17  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 30 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            81.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.0 GB, memoria virtual libre 19.4 GB
+  Avisos: ninguno
+
+=== 11/11/2026 07:47  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 30 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            83.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.8 GB, memoria virtual libre 19.4 GB
+  Avisos: ninguno
+
+=== 11/11/2026 08:17  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 30 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            88.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.8 GB, memoria virtual libre 19.5 GB
+  Avisos: ninguno
+
+=== 11/11/2026 08:47  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 30 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            94.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.9 GB, memoria virtual libre 19.5 GB
+  Avisos: ninguno
+
+=== 11/11/2026 09:17  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 30 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA            95.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.6 GB, memoria virtual libre 19.0 GB
+  Avisos: ninguno
+
+=== 11/11/2026 09:47  FASE 2c (C11, n = 9): 6/18 pasos hechos; quedan unas 29 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  en curso
+  c11_gamma_2_motorC1024         0.0 %  pendiente
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 20.2 GB, memoria virtual libre 19.1 GB
+  Avisos: ninguno
+
+11/11/2026 10:02:14  c11_gamma_1_motorA: terminado (6.95 h)
+11/11/2026 10:02:44  c11_gamma_2_motorC1024: lanzado (pids [18876, 25780, 21608, 17852], intento 1)
+=== 11/11/2026 10:17  FASE 2c (C11, n = 9): 7/18 pasos hechos; quedan unas 31 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024         3.9 %  en curso
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 15.9 GB, memoria virtual libre 17.4 GB
+  Avisos: ninguno
+
+=== 11/11/2026 10:47  FASE 2c (C11, n = 9): 7/18 pasos hechos; quedan unas 28 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024        18.6 %  en curso
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 19.3 GB, memoria virtual libre 17.2 GB
+  Avisos: ninguno
+
+=== 11/11/2026 11:17  FASE 2c (C11, n = 9): 7/18 pasos hechos; quedan unas 28 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024        31.9 %  en curso
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 18.5 GB, memoria virtual libre 17.0 GB
+  Avisos: ninguno
+
+=== 11/11/2026 11:47  FASE 2c (C11, n = 9): 7/18 pasos hechos; quedan unas 27 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024        45.2 %  en curso
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 18.1 GB, memoria virtual libre 16.9 GB
+  Avisos: ninguno
+
+=== 11/11/2026 12:17  FASE 2c (C11, n = 9): 7/18 pasos hechos; quedan unas 27 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024        59.3 %  en curso
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 17.9 GB, memoria virtual libre 16.9 GB
+  Avisos: ninguno
+
+=== 11/11/2026 12:47  FASE 2c (C11, n = 9): 7/18 pasos hechos; quedan unas 26 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024        71.8 %  en curso
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 17.8 GB, memoria virtual libre 16.8 GB
+  Avisos: ninguno
+
+=== 11/11/2026 13:17  FASE 2c (C11, n = 9): 7/18 pasos hechos; quedan unas 26 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024        82.7 %  en curso
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 17.7 GB, memoria virtual libre 16.8 GB
+  Avisos: ninguno
+
+=== 11/11/2026 13:47  FASE 2c (C11, n = 9): 7/18 pasos hechos; quedan unas 25 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024        96.0 %  en curso
+  c11_gamma_3_join               0.0 %  pendiente
+  c11_gamma_4_motorC2048         0.0 %  pendiente
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 17.7 GB, memoria virtual libre 16.7 GB
+  Avisos: ninguno
+
+11/11/2026 14:14:23  c11_gamma_2_motorC1024: terminado (4.19 h)
+11/11/2026 14:14:53  c11_gamma_3_join: lanzado (pids [27612], intento 1)
+11/11/2026 14:15:23  c11_gamma_3_join: terminado (0.01 h)
+11/11/2026 14:15:53  c11_gamma_4_motorC2048: lanzado (pids [3312, 14212, 6508, 22612], intento 1)
+=== 11/11/2026 14:17  FASE 2c (C11, n = 9): 9/18 pasos hechos; quedan unas 25 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048        25.0 %  en curso
+  c11_gamma_5_join               0.0 %  pendiente
+  c11_gamma_6_verificador        0.0 %  pendiente
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.8 GB, memoria virtual libre 18.8 GB
+  Avisos: ninguno
+
+11/11/2026 14:20:53  c11_gamma_4_motorC2048: terminado (0.08 h)
+11/11/2026 14:21:23  c11_gamma_5_join: lanzado (pids [23816], intento 1)
+11/11/2026 14:21:53  c11_gamma_5_join: terminado (0.01 h)
+11/11/2026 14:21:53  c11_gamma_5_join: 31016 caminos sobreviven a motor C (2048 bits) para γ
+11/11/2026 14:22:24  c11_gamma_6_verificador: lanzado (pids [16624], intento 1, 4 procesos)
+=== 11/11/2026 14:47  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 30 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador        3.7 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 24.9 GB, memoria virtual libre 31.0 GB
+  Avisos: ninguno
+
+=== 11/11/2026 15:17  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 24 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador       15.5 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.9 GB, memoria virtual libre 30.1 GB
+  Avisos: ninguno
+
+=== 11/11/2026 15:47  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 22 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador       30.8 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.5 GB, memoria virtual libre 29.5 GB
+  Avisos: ninguno
+
+=== 11/11/2026 16:18  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 22 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador       38.0 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.5 GB, memoria virtual libre 29.5 GB
+  Avisos: ninguno
+
+=== 11/11/2026 16:48  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 21 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador       46.2 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.9 GB, memoria virtual libre 29.9 GB
+  Avisos: ninguno
+
+=== 11/11/2026 17:18  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 21 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador       54.3 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 24.4 GB, memoria virtual libre 30.4 GB
+  Avisos: ninguno
+
+=== 11/11/2026 17:48  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 21 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador       61.5 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 24.7 GB, memoria virtual libre 30.7 GB
+  Avisos: ninguno
+
+=== 11/11/2026 18:18  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 20 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador       76.9 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.4 GB, memoria virtual libre 29.4 GB
+  Avisos: ninguno
+
+=== 11/11/2026 18:48  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 19 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador       87.7 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 23.0 GB, memoria virtual libre 29.0 GB
+  Avisos: ninguno
+
+=== 11/11/2026 19:18  FASE 2c (C11, n = 9): 11/18 pasos hechos; quedan unas 19 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador       95.8 %  en curso  (4 procesos)
+  c11_delta_1_motorA             0.0 %  pendiente
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 22.8 GB, memoria virtual libre 28.9 GB
+  Avisos: ninguno
+
+11/11/2026 19:33:10  c11_gamma_6_verificador: terminado (5.18 h)
+11/11/2026 19:33:10  C11 γ n = 9: optimo sin menos unario, error [1.980173745532652366286021e-15 +/- 1.99e-40], (.4^(.6-(((.2/(.1^.3))-(.5/(8^7)))^9))); sin decidir 0
+11/11/2026 19:33:41  c11_delta_1_motorA: lanzado (pids [27464], intento 1)
+=== 11/11/2026 19:48  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 13 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA             9.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 15.3 GB, memoria virtual libre 21.2 GB
+  Avisos: ninguno
+
+=== 11/11/2026 20:18  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 13 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            22.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.8 GB, memoria virtual libre 20.6 GB
+  Avisos: ninguno
+
+=== 11/11/2026 20:48  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 14 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            28.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.7 GB, memoria virtual libre 20.3 GB
+  Avisos: ninguno
+
+=== 11/11/2026 21:18  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 14 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            36.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.5 GB, memoria virtual libre 20.0 GB
+  Avisos: ninguno
+
+=== 11/11/2026 21:48  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 13 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            48.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.2 GB, memoria virtual libre 19.8 GB
+  Avisos: ninguno
+
+=== 11/11/2026 22:18  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 13 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            53.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.1 GB, memoria virtual libre 19.9 GB
+  Avisos: ninguno
+
+=== 11/11/2026 22:48  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 13 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            59.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 14.0 GB, memoria virtual libre 19.5 GB
+  Avisos: ninguno
+
+=== 11/11/2026 23:18  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 12 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            69.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.9 GB, memoria virtual libre 19.4 GB
+  Avisos: ninguno
+
+=== 11/11/2026 23:48  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 12 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            81.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.7 GB, memoria virtual libre 19.2 GB
+  Avisos: ninguno
+
+=== 12/11/2026 00:18  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 12 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            83.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.6 GB, memoria virtual libre 18.9 GB
+  Avisos: ninguno
+
+=== 12/11/2026 00:48  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 11 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            89.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.6 GB, memoria virtual libre 19.0 GB
+  Avisos: ninguno
+
+=== 12/11/2026 01:18  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 11 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            94.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.5 GB, memoria virtual libre 18.9 GB
+  Avisos: ninguno
+
+=== 12/11/2026 01:48  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 11 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA            95.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 13.4 GB, memoria virtual libre 18.3 GB
+  Avisos: ninguno
+
+=== 12/11/2026 02:18  FASE 2c (C11, n = 9): 12/18 pasos hechos; quedan unas 11 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  en curso
+  c11_delta_2_motorC1024         0.0 %  pendiente
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 21.2 GB, memoria virtual libre 18.3 GB
+  Avisos: ninguno
+
+12/11/2026 02:29:27  c11_delta_1_motorA: terminado (6.93 h)
+12/11/2026 02:29:57  c11_delta_2_motorC1024: lanzado (pids [26888, 13236, 26948, 22744], intento 1)
+=== 12/11/2026 02:48  FASE 2c (C11, n = 9): 13/18 pasos hechos; quedan unas 10 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024         8.1 %  en curso
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 17.4 GB, memoria virtual libre 17.1 GB
+  Avisos: ninguno
+
+=== 12/11/2026 03:18  FASE 2c (C11, n = 9): 13/18 pasos hechos; quedan unas 10 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024        18.5 %  en curso
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 21.4 GB, memoria virtual libre 17.0 GB
+  Avisos: ninguno
+
+=== 12/11/2026 03:48  FASE 2c (C11, n = 9): 13/18 pasos hechos; quedan unas 10 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024        28.5 %  en curso
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 21.0 GB, memoria virtual libre 16.9 GB
+  Avisos: ninguno
+
+=== 12/11/2026 04:18  FASE 2c (C11, n = 9): 13/18 pasos hechos; quedan unas 9 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024        38.6 %  en curso
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 19.5 GB, memoria virtual libre 16.8 GB
+  Avisos: ninguno
+
+=== 12/11/2026 04:48  FASE 2c (C11, n = 9): 13/18 pasos hechos; quedan unas 9 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024        50.5 %  en curso
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 18.8 GB, memoria virtual libre 16.7 GB
+  Avisos: ninguno
+
+=== 12/11/2026 05:18  FASE 2c (C11, n = 9): 13/18 pasos hechos; quedan unas 8 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024        61.8 %  en curso
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 18.4 GB, memoria virtual libre 16.7 GB
+  Avisos: ninguno
+
+=== 12/11/2026 05:48  FASE 2c (C11, n = 9): 13/18 pasos hechos; quedan unas 8 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024        73.7 %  en curso
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 18.4 GB, memoria virtual libre 16.7 GB
+  Avisos: ninguno
+
+=== 12/11/2026 06:18  FASE 2c (C11, n = 9): 13/18 pasos hechos; quedan unas 7 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024        83.9 %  en curso
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 18.3 GB, memoria virtual libre 16.6 GB
+  Avisos: ninguno
+
+=== 12/11/2026 06:48  FASE 2c (C11, n = 9): 13/18 pasos hechos; quedan unas 7 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024        96.5 %  en curso
+  c11_delta_3_join               0.0 %  pendiente
+  c11_delta_4_motorC2048         0.0 %  pendiente
+  c11_delta_5_join               0.0 %  pendiente
+  c11_delta_6_verificador        0.0 %  pendiente
+  RAM libre 22.1 GB, memoria virtual libre 20.4 GB
+  Avisos: ninguno
+
+12/11/2026 07:11:07  c11_delta_2_motorC1024: terminado (4.69 h)
+12/11/2026 07:11:37  c11_delta_3_join: lanzado (pids [18624], intento 1)
+12/11/2026 07:12:07  c11_delta_3_join: terminado (0.01 h)
+12/11/2026 07:12:37  c11_delta_4_motorC2048: lanzado (pids [10896, 20092, 16196, 5400], intento 1)
+12/11/2026 07:17:07  c11_delta_4_motorC2048: terminado (0.08 h)
+12/11/2026 07:17:37  c11_delta_5_join: lanzado (pids [21844], intento 1)
+12/11/2026 07:18:07  c11_delta_5_join: terminado (0.01 h)
+12/11/2026 07:18:07  c11_delta_5_join: 23230 caminos sobreviven a motor C (2048 bits) para δ
+12/11/2026 07:18:37  c11_delta_6_verificador: lanzado (pids [20708], intento 1, 4 procesos)
+=== 12/11/2026 07:18  FASE 2c (C11, n = 9): 17/18 pasos hechos; quedan unas 6 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador        0.0 %  en curso  (4 procesos)
+  RAM libre 25.7 GB, memoria virtual libre 31.6 GB
+  Avisos: ninguno
+
+=== 12/11/2026 07:48  FASE 2c (C11, n = 9): 17/18 pasos hechos; quedan unas 7 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador        7.1 %  en curso  (4 procesos)
+  RAM libre 24.9 GB, memoria virtual libre 30.9 GB
+  Avisos: ninguno
+
+=== 12/11/2026 08:18  FASE 2c (C11, n = 9): 17/18 pasos hechos; quedan unas 5 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador       17.4 %  en curso  (4 procesos)
+  RAM libre 24.8 GB, memoria virtual libre 30.8 GB
+  Avisos: ninguno
+
+=== 12/11/2026 08:48  FASE 2c (C11, n = 9): 17/18 pasos hechos; quedan unas 3 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador       34.6 %  en curso  (4 procesos)
+  RAM libre 23.4 GB, memoria virtual libre 29.3 GB
+  Avisos: ninguno
+
+=== 12/11/2026 09:18  FASE 2c (C11, n = 9): 17/18 pasos hechos; quedan unas 2 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador       47.5 %  en curso  (4 procesos)
+  RAM libre 23.2 GB, memoria virtual libre 29.1 GB
+  Avisos: ninguno
+
+=== 12/11/2026 09:48  FASE 2c (C11, n = 9): 17/18 pasos hechos; quedan unas 2 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador       56.1 %  en curso  (4 procesos)
+  RAM libre 23.2 GB, memoria virtual libre 29.1 GB
+  Avisos: ninguno
+
+=== 12/11/2026 10:18  FASE 2c (C11, n = 9): 17/18 pasos hechos; quedan unas 1 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador       75.9 %  en curso  (4 procesos)
+  RAM libre 24.2 GB, memoria virtual libre 30.1 GB
+  Avisos: ninguno
+
+=== 12/11/2026 10:48  FASE 2c (C11, n = 9): 17/18 pasos hechos; quedan unas 1 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador       84.5 %  en curso  (4 procesos)
+  RAM libre 24.6 GB, memoria virtual libre 30.6 GB
+  Avisos: ninguno
+
+=== 12/11/2026 11:18  FASE 2c (C11, n = 9): 17/18 pasos hechos; quedan unas 0 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador       91.4 %  en curso  (4 procesos)
+  RAM libre 24.6 GB, memoria virtual libre 30.5 GB
+  Avisos: ninguno
+
+12/11/2026 11:39:49  c11_delta_6_verificador: terminado (4.35 h)
+12/11/2026 11:39:49  C11 δ n = 9: optimo sin menos unario, error [4.958465996389709e-14 +/- 3.17e-30], (.4+((((8^.1)+(5^.23))/.6)^.97)); sin decidir 0
+=== 12/11/2026 11:40  FASE 2c (C11, n = 9): 18/18 pasos hechos; quedan unas 0 h (estimacion) ===
+  c11_pi_1_motorA              100.0 %  hecho
+  c11_pi_2_motorC1024          100.0 %  hecho
+  c11_pi_3_join                100.0 %  hecho
+  c11_pi_4_motorC2048          100.0 %  hecho
+  c11_pi_5_join                100.0 %  hecho  (18451 caminos)
+  c11_pi_6_verificador         100.0 %  hecho
+  c11_gamma_1_motorA           100.0 %  hecho
+  c11_gamma_2_motorC1024       100.0 %  hecho
+  c11_gamma_3_join             100.0 %  hecho
+  c11_gamma_4_motorC2048       100.0 %  hecho
+  c11_gamma_5_join             100.0 %  hecho  (31016 caminos)
+  c11_gamma_6_verificador      100.0 %  hecho
+  c11_delta_1_motorA           100.0 %  hecho
+  c11_delta_2_motorC1024       100.0 %  hecho
+  c11_delta_3_join             100.0 %  hecho
+  c11_delta_4_motorC2048       100.0 %  hecho
+  c11_delta_5_join             100.0 %  hecho  (23230 caminos)
+  c11_delta_6_verificador      100.0 %  hecho
+  RAM libre 25.4 GB, memoria virtual libre 31.3 GB
+  Avisos: ninguno
+

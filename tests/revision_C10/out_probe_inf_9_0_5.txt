@@ -1,0 +1,10 @@
+tables size 1: 9 sets, 18 classes + 0 anchored, 0 singular derivations (0 unresolved), 0.0s
+tables size 2: 36 sets, 1238 classes + 0 anchored, 0 singular derivations (0 unresolved), 0.0s
+tables size 3: 84 sets, 101562 classes + 1322 anchored, 0 singular derivations (0 unresolved), 0.0s
+tables size 4: 126 sets, 8726214 classes + 430059 anchored, 2911 singular derivations (0 unresolved), 2.1s
+tables size 5: 126 sets, 692140362 classes + 72852674 anchored, 716002 singular derivations (0 unresolved), 217.9s
+n=9 ord=0 tablas hasta 5: llamadas a finish_real 947113521; con hi=+inf y lo<=succ(1e300): 0 (devolvieron D_OK: 0); sin resolver 0
+
+real	3m41.332s
+user	13m5.555s
+sys	1m4.857s

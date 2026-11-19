@@ -1,0 +1,15 @@
+digits 1234567  theta = 2.9  (4s)
+side bounds (ln of max |mu|): SB(2) <= 2.779943  SB(3) <= 16.701294
+configurations needing blocks > 3 digits (must be empty): 0
+unresolved overlaps (must be empty): 0
+verified identities: 8, distinct ln ln N values: 1
+  ln(ln N) = [3.9101531984343909840 +/- 2.98e-20]   (8 writings)
+        (1 + .5^72)^(4^36)   stories L=1 R=1
+        (1 + .5^72)^(-4^36)   stories L=1 R=1
+        (1 + -.5^72)^(4^36)   stories L=1 R=1
+        (1 + -.5^72)^(-4^36)   stories L=1 R=1
+        (1 + 4^-36)^(.5^-72)   stories L=1 R=1
+        (1 + 4^-36)^(-.5^-72)   stories L=1 R=1
+        (1 + -4^-36)^(.5^-72)   stories L=1 R=1
+        (1 + -4^-36)^(-.5^-72)   stories L=1 R=1
+  best with 1 stories: ln(ln N) = [3.91015319843 +/- 4.40e-12]   (1 + .5^72)^(4^36)

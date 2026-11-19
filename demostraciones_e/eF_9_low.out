@@ -1,0 +1,23 @@
+digits 123456789  theta = 21.5  (12s)
+side bounds (ln of max |mu|): SB(2) <= 3.031257  SB(3) <= 21.455365
+configurations needing blocks > 3 digits (must be empty): 0
+unresolved overlaps (must be empty): 0
+verified identities: 136, distinct ln ln N values: 11
+  ln(ln N) = [92.759317243448324698 +/- 2.24e-19]   (16 writings)
+        (1 + .2^(3^84))^(5^((9^7)^6))   stories L=2 R=2
+  ln(ln N) = [91.916919327539549750 +/- 1.89e-19]   (16 writings)
+        (1 + 2^-(3^84))^(.5^(-(9^6)^7))   stories L=2 R=2
+  ln(ln N) = [59.011558175212050317 +/- 3.61e-19]   (8 writings)
+        (1 + 3^(-2^85))^(9^(4^(6*7)))   stories L=2 R=2
+  ln(ln N) = [53.465489224155710551 +/- 3.55e-19]   (8 writings)
+        (1 + .5^(3^(7^2)))^(8^((9^6)^4))   stories L=3 R=2
+  ln(ln N) = [48.153789718614507332 +/- 1.94e-19]   (16 writings)
+        (1 + 2^-(8^(7/.3)))^(4^(.5^-69))   stories L=2 R=2
+  ln(ln N) = [39.183529471470284563 +/- 2.17e-19]   (8 writings)
+        (1 + .5^(3^(6^2)))^(8^(9^(7/.4)))   stories L=3 R=2
+  ln(ln N) = [34.058259675054019178 +/- 3.82e-19]   (8 writings)
+        (1 + 3^(-.5^-(7^2)))^(9^(64^8))   stories L=3 R=2
+  ln(ln N) = [33.365112494494073868 +/- 2.02e-19]   (16 writings)
+        (1 + 3^-(2^(6*8)))^(9^(.5^-47))   stories L=2 R=2
+  best with 2 stories: ln(ln N) = [92.7593172434 +/- 4.84e-11]   (1 + .2^(3^84))^(5^((9^7)^6))
+  best with 3 stories: ln(ln N) = [53.4654892242 +/- 4.43e-11]   (1 + .5^(3^(7^2)))^(8^((9^6)^4))

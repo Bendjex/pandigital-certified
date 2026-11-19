@@ -1,0 +1,9 @@
+{
+  "title": "Certified pandigital approximations of π, γ, δ and e: code and data",
+  "upload_type": "software",
+  "description": "Code, certificates and logs for the article 'Certified pandigital approximations of π, γ, δ and e': exhaustive search, rigorous certifier (motors A, B, C), motor X for out-of-range expressions, the variant without unary minus, and the proofs for e. See README.md.",
+  "creators": [{"name": "Bendjema Garcia, Daniel"}],
+  "license": "MIT",
+  "keywords": ["pandigital", "approximation", "interval arithmetic", "certified computation", "Arb", "CORE-MATH"],
+  "version": "3.0"
+}

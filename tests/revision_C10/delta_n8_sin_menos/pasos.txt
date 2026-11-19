@@ -1,0 +1,24 @@
+Motor X para delta, n = 8, cualquier orden, con la ventana de la variante sin menos unario (hallazgo 1.1 del informe).
+Ejecutado por el revisor el 13-11-2026.  PC = carpeta pandigital_cert con c5/xlib.so y src/motora compilados; W = carpeta de trabajo.
+
+1. Fichero de resolución.  src/build_res.sh 8 0 con un hilo: res_8_0.txt con SHA-256
+   cbe3cb1b7854a7292d4ed897c8c0ffc719b9bf27f3d92d7fd228622c90ef24ba, igual al de results/resolution_files.sha256.
+   Motor X sólo usa tablas V de hasta 4 dígitos en cualquier orden (c5run.py: tv, tn = 4, 5); en W/res_8_0.txt se dejaron
+   las 1659 líneas de resolución de las tablas de hasta 4 dígitos, todas contenidas en el fichero completo.
+
+2. Tablas N (con todas las derivaciones, como las pide hitcheck.py), en dos procesos, k = 0, 1:
+     cd PC/c5; QX_NCACHE=W/cache QX_ALLPROV=1 RESDIR=W python -u ntables.py 8 0 4 5 k 2
+   126 tablas, 0 operaciones de motor B sin decidir; unos 5 min por proceso.
+
+3. La consulta, en tres procesos, k = 0, 1, 2:
+     cd PC/c5; QX_NCACHE=W/cache RESDIR=W C5RUN_CHUNKS=1 QX_CHUNK=1500000 E11_delta=1.2001163303948682e-11 \
+         python -u c5run.py 8 0 delta k 3 W/c5_8_0_delta_pk.jsonl
+   E11_delta es el óptimo sin menos unario de results/c11.jsonl, [1.200116330394868239e-11 +/- 1.92e-30];
+   c5run.py lo multiplica por 1 + 1e-9, y la consulta se hace con el radio 1.2001163315949847e-11.
+   Unos 7 min por proceso (20 min de CPU en total).
+
+Resultado (c5_8_0_delta_p{0,1,2}.jsonl, registros sin clave "chunk"):
+   127 separaciones de 127; 492 hits; 0 sin decidir frente a la ventana con menos unario; 0 sin decidir frente a la
+   ventana sin menos unario; 0 valores dentro de la ventana sin menos unario; 0 operaciones de motor B sin decidir.
+   Los hits por separación coinciden, las 127, con los de results/c5/registros_c5_sesion/n8/c5_8_0_p{0,1}.jsonl
+   (492 hits, radio 2.2254665888666076e-12).

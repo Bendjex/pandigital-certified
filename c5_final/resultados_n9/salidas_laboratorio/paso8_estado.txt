@@ -1,0 +1,28 @@
+﻿VEREDICTO: REVISAR
+  REVISAR: el cierre NO esta en marcha y no ha terminado (ultimo aviso: 14/11/2026 22:07:45  PARADO: n = 9: partes paradas por un fallo repetido: [0, 1]. Pasar revisar_*.zip (revisar.bat) al director; relanzar lanzar_cierre.bat continua por los trozos pendientes)
+  REVISAR: C: tiene 0.79 GB libres: cerrar y abrir VS Code (el calculo escribe en D:, pero con C: lleno Windows no puede agrandar el archivo de paginacion; con menos de 1 GB se para todo)
+RESUMEN C5 18/11/2026 22:19:18
+  n = 8: CPU de los trozos hechos 0.53 h
+  n = 8, pi, C7 (con menos unario): CERRADA: 127/127 separaciones, 490 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 8, pi, C11 (sin menos unario, E11 = 1.77548e-12): CERRADA: 127/127 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 8, gamma, C7 (con menos unario): CERRADA: 127/127 separaciones, 482 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 8, gamma, C11 (sin menos unario, E11 = 6.08386e-13): CERRADA: 127/127 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 8, delta, C7 (con menos unario): CERRADA: 127/127 separaciones, 492 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 8, delta, C11 (sin menos unario, E11 = 3.05807e-11): CERRADA: 127/127 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 9: CPU de los trozos hechos 336.03 h
+  n = 9, pi, C7 (con menos unario): CERRADA: 255/255 separaciones, 1845905 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 9, pi, C11 (sin menos unario, E11 = 3.53287e-13): CERRADA: 255/255 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 9, gamma, C7 (con menos unario): CERRADA: 255/255 separaciones, 1757123 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 9, gamma, C11 (sin menos unario, E11 = 1.98017e-15): CERRADA: 255/255 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 9, delta, C7 (con menos unario): CERRADA: 255/255 separaciones, 1848564 hits comprobados, 0 valores sin decidir, motor B sin decidir 0
+  n = 9, delta, C11 (sin menos unario, E11 = 1.49661e-12): CERRADA: 255/255 separaciones, 0 valores sin decidir (de ellos 0 con certeza dentro de la ventana: hay que ver si necesitan el menos unario)
+  n = 8: 127/127 separaciones terminadas (|S1| = 1: 8/8, |S1| = 2: 28/28, |S1| = 3: 56/56, |S1| = 4: 35/35); en las ultimas 24 h: 0
+  n = 9: 255/255 separaciones terminadas (|S1| = 1: 9/9, |S1| = 2: 36/36, |S1| = 3: 84/84, |S1| = 4: 126/126); en las ultimas 24 h: 201
+  n = 9: reservadas a la nube 201 separaciones; de ellas ya importadas y comprobadas 201 (importar_nube.bat)
+  n = 9, parte 0: done
+  n = 9, parte 1: live; memoria 6.27 GB (pico 7.67 GB), CPU 8.80 h
+      [chunks] split 94 (pi,gamma,delta): 2/10 chunks done (VV: hits 0/0/0, undecided 0/0/0, C11 0/0/0, 0.0 s)
+  n = 9, parte 2: live; memoria 5.32 GB (pico 7.62 GB), CPU 8.79 h
+      [chunks] split 92 (pi,gamma,delta): 10/10 chunks done (VN.r3: hits 260/260/260, undecided 0/0/0, C11 0/0/0, 156.9 s)
+  equipo: RAM disponible 24.7 GB; memoria comprometible libre 30.6 GB de 41.7 GB; C: libre 0.79 GB; en marcha: NO
+  -> ejecutar revisar.bat y pasar al director esta salida y el zip revisar_<fecha>.zip que crea

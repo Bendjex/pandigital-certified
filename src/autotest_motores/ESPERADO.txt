@@ -1,0 +1,49 @@
+AUTOTEST for the laboratory package (inputs in this folder; expected values computed on Linux and checked with the
+Windows binaries of ../bin under wine 9.0).  Every test writes only its own outputs.  Times: Linux, 1 core.
+
+All motorc outputs are written in binary mode (LF), so the Windows hashes equal the Linux ones.
+motora.exe writes its output in text mode (CRLF on Windows): two hashes are given (Linux LF / Windows CRLF);
+stripping the '\r' from the Windows file gives exactly the Linux file.
+
+------------------------------------------------------------------------------------------------------------
+T1  motor C, n = 8, three windows, rules of 04/11 (MOTORC_FAST=1)                         ~1 min, ~1.5 GB RAM
+    set MOTORC_FAST=1, MOTORC_TPREC=128, MOTORC_SAMPLE=10
+    motorc.exe 8 0 w3_8.txt autotest_test8.txt t1_kept.txt 1024
+    t1_kept.txt         0a3582b4908e4c586196495e378520065f61ca61cb702f3a31029db00fbe5210   (495 lines)
+    t1_kept.txt.sample  ea50b012b3da5f33735bb14256552864fe6c4747f0bd28d0ccd606fc5b5bc0fb
+    (identical to the hashes of the old autotest esperado_test8_*: the new rules keep exactly the same paths here;
+     without MOTORC_FAST the same two hashes are obtained)
+
+T2  motor C, block mode with join (same input)                                               ~1 min
+    set MOTORC_FAST=1, MOTORC_TPREC=128, MOTORC_SAMPLE=10, MOTORC_NBLOCKS=4   (no MOTORC_PART: one process, 4 blocks)
+    motorc.exe 8 0 w3_8.txt autotest_test8.txt t2_kept.txt 1024
+    motorc.exe join t2_kept.txt 4        -> stderr "joined 4 blocks: 8726 paths, 495 kept, 930 sample lines"
+    t2_kept.txt         0a3582b4908e4c586196495e378520065f61ca61cb702f3a31029db00fbe5210   (= T1: same lines, same order)
+    t2_kept.txt.sample  ba1f6934a7be02c1e389b2840a6fcc4ee95209f56f3883629b6058a5c849b921   (block mode samples by line hash)
+
+T3  motor C, n = 9, the laboratory sample (20 000 unique W0 paths of c7_cand.txt)          ~45 s, ~3.5 GB RAM
+    set MOTORC_FAST=1, MOTORC_TPREC=128
+    motorc.exe 9 0 w_c7_9_0.txt muestra_n9_W0.txt t3_kept.txt 1024
+    t3_kept.txt         708d37dad89efe9a23680ea99887a48812826ce9096f4054c3f1672e96c1ab8b   (17 lines, = esperado_muestra_n9_kept.txt)
+
+T4  motor A, n = 6, any order, five windows ("ident6b")                                     ~15 s, 2 threads, <1 GB
+    set OMP_NUM_THREADS=2
+    motora.exe multi 6 0 res_6_0.txt w_ident6b.txt t4_cand.txt
+    t4_cand.txt  Linux 589a1883e52a038c819d70fd3ee3a12c85085a8d91ce3b914f0121b871e674cc   (59 484 lines)
+                 Windows (CRLF) 0ab1e3c9ca39d897c68f6bc381336bb9d57fbc736b012874531730fb6a928769
+    (the motora of 28/10 gives the same Linux file: the changes of 04/11 do not change the output)
+
+T5  motor A, the same with MOTORA_DEDUP=1 (the mode recommended for C11)                    ~15 s
+    set OMP_NUM_THREADS=2, MOTORA_DEDUP=1
+    motora.exe multi 6 0 res_6_0.txt w_ident6b.txt t5_cand.txt
+    t5_cand.txt  Linux 544ef23743fe50223213251b41308db0c57c550eff8612954b093acb031ffb96   (59 390 lines = uniq of T4)
+                 Windows (CRLF) 4345a590a8f211c4298ca0751b3904ba6aab152310e4889e5e9bee6207287596
+
+Input hashes:
+    autotest_test8.txt   8234222a38573babd2bcf911f5f29df5b1c0f8d289b98f46dd4b926d5e41b8c8
+    w3_8.txt             8154823e7ad34562c60e504fdb4c037ce6204fff6ac880131d1ae6b54d31a99b
+    muestra_n9_W0.txt    2e3debb82309f06f1f2dc5d034b15c0c82b956949dd9a5031ba275fcc39d3553
+    w_c7_9_0.txt         bc03162ac75346072222b110fa6b6f919836173ff5b76b1aa59640db9e15eb96
+    w_ident6b.txt        2cdedccbf8b18c05b9635f4c912d2ece94eb623aa94efb68426b17b0c007590c
+    res_6_0.txt          8c52615193d05c27842f9d887c4c44a80d7c286942f78dc497315ce92e2b3344   (= resolution_files.sha256)
+    w_c11_9_0.txt        (the C11 windows; not used by the autotest)

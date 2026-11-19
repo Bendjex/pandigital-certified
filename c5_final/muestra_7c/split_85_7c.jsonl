@@ -1,0 +1,1 @@
+{"const": "pi", "split": 85, "chunk": "NU", "hits": 12592, "undecided": 0, "cpu": 7594.5, "cpu_query": 3654.9, "seconds": 7666.6, "together": ["pi", "gamma", "delta"], "Eq": 3.532867684881229e-13, "undecided_detail": [], "undecided_reasons": {}, "t": 1795024782.273457, "code": "1e05db8f91fe15ec", "undecided_c11": 0, "inside_c11": 0}

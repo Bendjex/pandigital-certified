@@ -1,0 +1,66 @@
+{
+ "consts": [
+  "pi",
+  "gamma",
+  "delta"
+ ],
+ "cells": [
+  {
+   "n": 8,
+   "res_sha256": "cbe3cb1b7854a7292d4ed897c8c0ffc719b9bf27f3d92d7fd228622c90ef24ba",
+   "res_from": [
+    "py/cert/res_8_0.txt"
+   ],
+   "E": {},
+   "expected": "data/esperado_8.json",
+   "E11": {
+    "pi": "1.7754842022891951e-12",
+    "gamma": "6.083860837112889e-13",
+    "delta": "3.0580735760575984019e-11"
+   },
+   "E11_origen": {
+    "pi": "c11.jsonl (certificado)",
+    "gamma": "c11.jsonl (certificado)",
+    "delta": "cota mitm ((.1/(.5*.8))+(3/((7^.2)*.46))), comprobada a 80 digitos (chat cloud, 11/11)"
+   }
+  },
+  {
+   "n": 9,
+   "res_sha256": "a04480cfb0d08f0fc876ab1a3788c2ca17c7c3fc03a58d16e97990a718644975",
+   "res_from": [
+    "../c7/res_9_0.txt",
+    "../fase2/py/cert/res_9_0.txt",
+    "../c5tipo1b/work/res/res_9_0.txt"
+   ],
+   "E": {
+    "pi": 3.23e-14,
+    "gamma": 2.12e-15,
+    "delta": 2.2e-14
+   },
+   "E11": {
+    "pi": "3.532867681348361e-13",
+    "gamma": "1.980173745532652e-15",
+    "delta": "1.4966108821940592e-12"
+   },
+   "E11_origen": {
+    "pi": "cota mitm ((2^(.7^(.6/5)))+(14^(.8^(3+9))))",
+    "gamma": "C11 certificado (laboratorio)",
+    "delta": "cota mitm ((2+(34/(.6^.5)))/(9+(.8/(.7^.1))))"
+   }
+  }
+ ],
+ "pylib": [
+  "../fase2/pylib",
+  "pylib"
+ ],
+ "chunk": 1000000,
+ "workers": 3,
+ "tables_workers": 3,
+ "max_job_gb": 10,
+ "min_commit_gb": 4,
+ "ram_min_free_gb": 1.5,
+ "poll_s": 5,
+ "pack_max_mb": 200,
+ "max_total_gb": 20,
+ "soft_total_gb": 16
+}

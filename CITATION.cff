@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this archive."
+title: "Certified pandigital approximations of pi, gamma, delta and e: code and data"
+authors:
+  - given-names: "Daniel"
+    family-names: "Bendjema Garcia"
+version: "3.0"
+date-released: "2026-11-20"
+license: MIT
+repository-code: "https://github.com/Bendjex/pandigital-certified"
+doi: "10.5281/zenodo.24356239"
+keywords: [pandigital, approximation, interval arithmetic, certified computation, Friedman]

@@ -1,0 +1,128 @@
+14/11 01:46:19 start: 59 cells
+14/11 01:46:19 delta n=2 ord=1 rc=0 rounds={'E': 0.3307990524941361, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:19    audit events so far: 0
+14/11 01:46:19 e n=2 ord=1 rc=0 rounds={'E': 0.2817187349775866, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:19    audit events so far: 0
+14/11 01:46:20 gamma n=2 ord=1 rc=0 rounds={'E': 0.05374178706207505, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:20    audit events so far: 0
+14/11 01:46:20 pi n=2 ord=1 rc=0 rounds={'E': 0.1415929367752491, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:20    audit events so far: 0
+14/11 01:46:20 delta n=2 ord=0 rc=0 rounds={'E': 0.3307990524941361, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:20    audit events so far: 0
+14/11 01:46:21 e n=2 ord=0 rc=0 rounds={'E': 0.2817187349775866, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:21    audit events so far: 0
+14/11 01:46:21 gamma n=2 ord=0 rc=0 rounds={'E': 0.05374178706207505, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:21    audit events so far: 0
+14/11 01:46:21 pi n=2 ord=0 rc=0 rounds={'E': 0.1415929367752491, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:21    audit events so far: 0
+14/11 01:46:22 delta n=3 ord=1 rc=0 rounds={'E': 0.11045132286319699, 'candidates': 4, 'values': 4, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:22    audit events so far: 0
+14/11 01:46:22 e n=3 ord=1 rc=0 rounds={'E': 0.018281865022727536, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:22    audit events so far: 0
+14/11 01:46:22 gamma n=3 ord=1 rc=0 rounds={'E': 0.023808668452014063, 'candidates': 6, 'values': 6, 'pos_values': 3, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:22    audit events so far: 0
+14/11 01:46:23 pi n=3 ord=1 rc=0 rounds={'E': 0.08274019179449749, 'candidates': 4, 'values': 4, 'pos_values': 2, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:23    audit events so far: 0
+14/11 01:46:23 delta n=3 ord=0 rc=0 rounds={'E': 0.11045132286319699, 'candidates': 4, 'values': 4, 'pos_values': 2, 'seconds_A': 0.0, 'seconds_B': 0.1, 'workers': 4} unresolved=0
+14/11 01:46:23    audit events so far: 0
+14/11 01:46:23 e n=3 ord=0 rc=0 rounds={'E': 0.018281865022727536, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.1, 'workers': 4} unresolved=0
+14/11 01:46:23    audit events so far: 0
+14/11 01:46:24 gamma n=3 ord=0 rc=0 rounds={'E': 0.00861469166736107, 'candidates': 5, 'values': 5, 'pos_values': 3, 'seconds_A': 0.0, 'seconds_B': 0.1, 'workers': 4} unresolved=0
+14/11 01:46:24    audit events so far: 0
+14/11 01:46:24 pi n=3 ord=0 rc=0 rounds={'E': 0.008259336775115781, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.1, 'workers': 4} unresolved=0
+14/11 01:46:24    audit events so far: 0
+14/11 01:46:24 delta n=4 ord=1 rc=0 rounds={'E': 0.002534947506225623, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:24    audit events so far: 0
+14/11 01:46:25 e n=4 ord=1 rc=0 rounds={'E': 0.00048097885359668673, 'candidates': 2, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:25    audit events so far: 0
+14/11 01:46:25 gamma n=4 ord=1 rc=0 rounds={'E': 0.0025814790059861103, 'candidates': 6, 'values': 4, 'pos_values': 3, 'seconds_A': 0.0, 'seconds_B': 0.1, 'workers': 4} unresolved=0
+14/11 01:46:25    audit events so far: 0
+14/11 01:46:25 pi n=4 ord=1 rc=0 rounds={'E': 0.0028457969688537453, 'candidates': 2, 'values': 2, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.0, 'workers': 4} unresolved=0
+14/11 01:46:25    audit events so far: 0
+14/11 01:46:26 delta n=4 ord=0 rc=0 rounds={'E': 0.002534947506225623, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.2, 'workers': 4} unresolved=0
+14/11 01:46:26    audit events so far: 0
+14/11 01:46:26 e n=4 ord=0 rc=0 rounds={'E': 0.000586659343258661, 'candidates': 4, 'values': 3, 'pos_values': 2, 'seconds_A': 0.0, 'seconds_B': 0.3, 'workers': 4} unresolved=0
+14/11 01:46:26    audit events so far: 0
+14/11 01:46:27 gamma n=4 ord=0 rc=0 rounds={'E': 4.163137854161267e-05, 'candidates': 2, 'values': 2, 'pos_values': 1, 'seconds_A': 0.0, 'seconds_B': 0.2, 'workers': 4} unresolved=0
+14/11 01:46:27    audit events so far: 0
+14/11 01:46:27 pi n=4 ord=0 rc=0 rounds={'E': 0.0005218869625530738, 'candidates': 4, 'values': 4, 'pos_values': 2, 'seconds_A': 0.0, 'seconds_B': 0.2, 'workers': 4} unresolved=0
+14/11 01:46:27    audit events so far: 0
+14/11 01:46:28 delta n=5 ord=1 rc=0 rounds={'E': 0.0018761629454110708, 'candidates': 8, 'values': 8, 'pos_values': 3, 'seconds_A': 0.1, 'seconds_B': 0.3, 'workers': 4} unresolved=0
+14/11 01:46:28    audit events so far: 0
+14/11 01:46:29 e n=5 ord=1 rc=0 rounds={'E': 0.0004044120304749462, 'candidates': 5, 'values': 5, 'pos_values': 1, 'seconds_A': 0.1, 'seconds_B': 0.3, 'workers': 4} unresolved=0
+14/11 01:46:29    audit events so far: 0
+14/11 01:46:29 gamma n=5 ord=1 rc=0 rounds={'E': 8.643223439764187e-05, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.1, 'seconds_B': 0.1, 'workers': 4} unresolved=0
+14/11 01:46:29    audit events so far: 0
+14/11 01:46:30 pi n=5 ord=1 rc=0 rounds={'E': 0.0005584266202676952, 'candidates': 8, 'values': 10, 'pos_values': 1, 'seconds_A': 0.1, 'seconds_B': 0.3, 'workers': 4} unresolved=0
+14/11 01:46:30    audit events so far: 0
+14/11 01:46:44 delta n=5 ord=0 rc=0 rounds={'E': 0.00011784337409203806, 'candidates': 16, 'values': 18, 'pos_values': 7, 'seconds_A': 2.9, 'seconds_B': 11.1, 'workers': 4} unresolved=0
+14/11 01:46:44    audit events so far: 0
+14/11 01:46:50 e n=5 ord=0 rc=0 rounds={'E': 6.734426251520143e-06, 'candidates': 3, 'values': 3, 'pos_values': 1, 'seconds_A': 3.0, 'seconds_B': 2.5, 'workers': 4} unresolved=0
+14/11 01:46:50    audit events so far: 0
+14/11 01:47:02 gamma n=5 ord=0 rc=0 rounds={'E': 4.357616976907375e-06, 'candidates': 12, 'values': 12, 'pos_values': 1, 'seconds_A': 3.2, 'seconds_B': 8.6, 'workers': 4} unresolved=0
+14/11 01:47:02    audit events so far: 0
+14/11 01:47:07 pi n=5 ord=0 rc=0 rounds={'E': 5.927054706216733e-06, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 3.0, 'seconds_B': 1.1, 'workers': 4} unresolved=0
+14/11 01:47:07    audit events so far: 0
+14/11 01:47:07 delta n=6 ord=1 rc=0 rounds={'E': 3.278433914478687e-05, 'candidates': 5, 'values': 5, 'pos_values': 1, 'seconds_A': 0.2, 'seconds_B': 0.2, 'workers': 4} unresolved=0
+14/11 01:47:07    audit events so far: 0
+14/11 01:47:08 e n=6 ord=1 rc=0 rounds={'E': 2.309559132447992e-06, 'candidates': 1, 'values': 1, 'pos_values': 1, 'seconds_A': 0.2, 'seconds_B': 0.1, 'workers': 4} unresolved=0
+14/11 01:47:08    audit events so far: 0
+14/11 01:47:08 gamma n=6 ord=1 rc=0 rounds={'E': 2.723510618893782e-07, 'candidates': 3, 'values': 1, 'pos_values': 1, 'seconds_A': 0.2, 'seconds_B': 0.1, 'workers': 4} unresolved=0
+14/11 01:47:08    audit events so far: 0
+14/11 01:47:09 pi n=6 ord=1 rc=0 rounds={'E': 1.5279938634979184e-05, 'candidates': 7, 'values': 2, 'pos_values': 1, 'seconds_A': 0.2, 'seconds_B': 0.2, 'workers': 4} unresolved=0
+14/11 01:47:09    audit events so far: 0
+14/11 01:47:51 delta n=6 ord=0 rc=0 rounds={'E': 2.0323521376474704e-06, 'candidates': 40, 'values': 39, 'pos_values': 10, 'seconds_A': 21.2, 'seconds_B': 20.4, 'workers': 4} unresolved=0
+14/11 01:47:51    audit events so far: 0
+14/11 01:48:19 e n=6 ord=0 rc=0 rounds={'E': 2.6617013072981236e-08, 'candidates': 13, 'values': 3, 'pos_values': 3, 'seconds_A': 22.0, 'seconds_B': 6.2, 'workers': 4} unresolved=0
+14/11 01:48:19    audit events so far: 0
+14/11 01:48:44 gamma n=6 ord=0 rc=0 rounds={'E': 3.3524859481591755e-08, 'candidates': 7, 'values': 10, 'pos_values': 2, 'seconds_A': 21.2, 'seconds_B': 3.2, 'workers': 4} unresolved=0
+14/11 01:48:44    audit events so far: 0
+14/11 01:49:07 pi n=6 ord=0 rc=0 rounds={'E': 1.3801049249438153e-08, 'candidates': 2, 'values': 1, 'pos_values': 1, 'seconds_A': 21.3, 'seconds_B': 1.3, 'workers': 4} unresolved=0
+14/11 01:49:07    audit events so far: 0
+14/11 01:49:08 delta n=7 ord=1 rc=0 rounds={'E': 1.109105856967527e-06, 'candidates': 14, 'values': 12, 'pos_values': 2, 'seconds_A': 0.3, 'seconds_B': 0.2, 'workers': 4} unresolved=0
+14/11 01:49:08    audit events so far: 0
+14/11 01:49:09 e n=7 ord=1 rc=0 rounds={'E': 8.662441185333973e-08, 'candidates': 9, 'values': 5, 'pos_values': 1, 'seconds_A': 0.2, 'seconds_B': 0.3, 'workers': 4} unresolved=0
+14/11 01:49:09    audit events so far: 0
+14/11 01:49:10 gamma n=7 ord=1 rc=0 rounds={'E': 2.8521356163397e-07, 'candidates': 24, 'values': 13, 'pos_values': 4, 'seconds_A': 0.2, 'seconds_B': 0.5, 'workers': 4} unresolved=0
+14/11 01:49:10    audit events so far: 0
+14/11 01:49:11 pi n=7 ord=1 rc=0 rounds={'E': 7.556882914454892e-07, 'candidates': 28, 'values': 11, 'pos_values': 2, 'seconds_A': 0.2, 'seconds_B': 0.4, 'workers': 4} unresolved=0
+14/11 01:49:11    audit events so far: 0
+14/11 01:50:43 delta n=7 ord=0 rc=0 rounds={'E': 7.83051010870188e-09, 'candidates': 364, 'values': 24, 'pos_values': 2, 'seconds_A': 83.7, 'seconds_B': 8.6, 'workers': 4} unresolved=0
+14/11 01:50:43    audit events so far: 0
+14/11 01:52:26 gamma n=7 ord=0 rc=0 rounds={'E': 1.6499517100416312e-09, 'candidates': 372, 'values': 47, 'pos_values': 7, 'seconds_A': 86.7, 'seconds_B': 15.9, 'workers': 4} unresolved=0
+14/11 01:52:26    audit events so far: 0
+14/11 01:54:04 pi n=7 ord=0 rc=0 rounds={'E': 4.829517873709185e-09, 'candidates': 319, 'values': 19, 'pos_values': 1, 'seconds_A': 86.5, 'seconds_B': 10.9, 'workers': 4} unresolved=0
+14/11 01:54:04    audit events so far: 0
+14/11 01:54:05 delta n=8 ord=1 rc=0 rounds={'E': 1.2724253414823192e-08, 'candidates': 22, 'values': 1, 'pos_values': 1, 'seconds_A': 0.5, 'seconds_B': 0.7, 'workers': 4} unresolved=0
+14/11 01:54:05    audit events so far: 0
+14/11 01:54:07 gamma n=8 ord=1 rc=0 rounds={'E': 2.364595849281881e-08, 'candidates': 66, 'values': 42, 'pos_values': 6, 'seconds_A': 0.6, 'seconds_B': 0.8, 'workers': 4} unresolved=0
+14/11 01:54:07    audit events so far: 0
+14/11 01:54:08 pi n=8 ord=1 rc=0 rounds={'E': 2.1119054885803756e-08, 'candidates': 31, 'values': 9, 'pos_values': 3, 'seconds_A': 0.5, 'seconds_B': 0.6, 'workers': 4} unresolved=0
+14/11 01:54:08    audit events so far: 0
+14/11 01:54:48 delta n=9 ord=1 rc=0 rounds={'E': 4.636516857243914e-09, 'candidates': 4097, 'values': 8, 'pos_values': 1, 'seconds_A': 7.0, 'seconds_B': 32.1, 'workers': 4} unresolved=0
+14/11 01:54:48    audit events so far: 0
+14/11 01:55:29 gamma n=9 ord=1 rc=0 rounds={'E': 2.328381444767621e-10, 'candidates': 3253, 'values': 3, 'pos_values': 1, 'seconds_A': 7.1, 'seconds_B': 33.3, 'workers': 4} unresolved=0
+14/11 01:55:29    audit events so far: 0
+14/11 01:56:09 pi n=9 ord=1 rc=0 rounds={'E': 3.7876084789169064e-09, 'candidates': 3825, 'values': 14, 'pos_values': 1, 'seconds_A': 7.2, 'seconds_B': 32.7, 'workers': 4} unresolved=0
+14/11 01:56:09    audit events so far: 0
+14/11 01:59:46 pi n=8 ord=0 chain: 125859 candidates, 55 after motor C
+14/11 02:00:39 pi n=8 ord=0 rc=0 rounds={'E': 8.884540604914784e-12, 'candidates': 55, 'values': 8, 'pos_values': 3, 'seconds_A': 0.0, 'seconds_B': 52.5, 'workers': 4} unresolved=0
+14/11 02:00:39    audit events so far: 0
+14/11 02:04:19 gamma n=8 ord=0 chain: 112946 candidates, 109 after motor C
+14/11 02:05:10 gamma n=8 ord=0 rc=0 rounds={'E': 6.215536000598378e-12, 'candidates': 109, 'values': 55, 'pos_values': 26, 'seconds_A': 0.0, 'seconds_B': 50.7, 'workers': 4} unresolved=0
+14/11 02:05:10    audit events so far: 0
+14/11 02:09:00 delta n=8 ord=0 chain: 138018 candidates, 115 after motor C
+14/11 02:09:43 delta n=8 ord=0 rc=0 rounds={'E': 3.0595007783898706e-11, 'candidates': 115, 'values': 43, 'pos_values': 5, 'seconds_A': 0.0, 'seconds_B': 42.1, 'workers': 4} unresolved=0
+14/11 02:09:43    audit events so far: 0
+14/11 08:53:38 start: 59 cells
+14/11 10:50:27 start: 59 cells
+14/11 11:11:03 pi n=9 ord=0 rc=0 rounds={'E': 3.6039290561904027e-13, 'candidates': 18451, 'values': 93, 'pos_values': 8, 'seconds_A': 0.0, 'seconds_B': 1235.5, 'workers': 4} unresolved=0
+14/11 11:11:03    audit events so far: 0
+14/11 13:50:46 start: 59 cells
+14/11 15:22:36 gamma n=9 ord=0 rc=0 rounds={'E': 6.749348198095246e-14, 'candidates': 31016, 'values': 113, 'pos_values': 14, 'seconds_A': 0.0, 'seconds_B': 5508.7, 'workers': 4} unresolved=0
+14/11 15:22:36    audit events so far: 0
+14/11 15:47:31 start: 59 cells
+16/11 20:01:03 start: 59 cells
+16/11 20:17:42 delta n=9 ord=0 rc=0 rounds={'E': 1.5108247372379495e-12, 'candidates': 23230, 'values': 179, 'pos_values': 51, 'seconds_A': 0.0, 'seconds_B': 997.7, 'workers': 4} unresolved=0
+16/11 20:17:42    audit events so far: 0
+16/11 20:17:42 DONE

@@ -1,0 +1,46 @@
+{
+ "n": 9,
+ "splits": 255,
+ "cpu_h": 336.03,
+ "consts": {
+  "pi": {
+   "splits_done": 255,
+   "hits": 1845905,
+   "undecided": 0,
+   "motorB_unresolved": 0,
+   "pieces_done": 1983,
+   "closed": true,
+   "E11": 3.532867681348361e-13,
+   "splits_c11": 255,
+   "undecided_c11": 0,
+   "inside_c11": 0,
+   "closed_c11": true
+  },
+  "gamma": {
+   "splits_done": 255,
+   "hits": 1757123,
+   "undecided": 0,
+   "motorB_unresolved": 0,
+   "pieces_done": 1983,
+   "closed": true,
+   "E11": 1.980173745532652e-15,
+   "splits_c11": 255,
+   "undecided_c11": 0,
+   "inside_c11": 0,
+   "closed_c11": true
+  },
+  "delta": {
+   "splits_done": 255,
+   "hits": 1848564,
+   "undecided": 0,
+   "motorB_unresolved": 0,
+   "pieces_done": 1983,
+   "closed": true,
+   "E11": 1.4966108821940592e-12,
+   "splits_c11": 255,
+   "undecided_c11": 0,
+   "inside_c11": 0,
+   "closed_c11": true
+  }
+ }
+}

@@ -1,0 +1,24 @@
+Pruebas del revisor (revisión adversaria C10).  PC = carpeta pandigital_cert desempaquetada, con c5/xlib.so compilado
+(gcc -O2 -ffp-contract=off -fopenmp -fPIC -shared -I../src -o xlib.so xlib.c ../src/coremath/pow.c -lm).
+Python 3.13 con numpy, mpmath 1.3.0, sympy 1.14.0, python-flint 0.9.0.
+
+diff_ivl_lvl.py PC semilla n_arboles max_hojas   ivl.fwd encadenado frente a lvl.op (y racionales exactos) en árboles al azar
+struct_cover.py PC n ord tV tN semilla n_arboles DIGITOS [query]
+                                                 cobertura estructural: valores de X(S) (algún nodo fuera de rango) frente a
+                                                 la tabla N^(S) y, con "query", frente a Q(S, "N", ventana estrecha)
+pieces_e2e.py PC n_separaciones                  las piezas de c5run.plan suman la separación entera (n = 6, tN = 4)
+check_tables.py manuscript.md results/           tablas 1, 2, 3 y 5 frente a los jsonl, con evaluador propio
+check_misc.py                                    cifras sueltas del texto (récords de e, §1.1, Aizenbud, delta, ...)
+model92.py                                       estadísticas del modelo aleatorio de §9.2
+probe_explog.py PC                               exp_lo/exp_hi/ln_lo/ln_hi de motor A frente a mpmath
+probe_a.c                                        code_for / finish_real con cota superior +inf
+make_motora_instr.py + probe_inf.c               recuento de derivaciones con cota superior +inf al construir las tablas
+probe_inf2.c                                     lo mismo con FREE_TOP = 1 (no guarda el último tamaño): n = 8 y 9 en cualquier orden
+out_probe_inf_9_0_5.txt                          salida de probe_inf2 para n = 9 en cualquier orden, tablas de hasta 5 dígitos
+demos.py PC                                      tres demostraciones citadas en el informe
+eF_radius.py DIGITOS theta                       (desde demostraciones_e/) radio relativo de las bolas de la criba de e_F.py
+t3_case.py PC                                    un caso del tercer nivel verificado a mano
+check_amb.py                                     clases ambiguas en las tablas V (hallazgo 1.4)
+check_motorc_multi.py                            motor C frente a motor B: ningún camino no vacío descartado
+delta_n8_sin_menos/                              motor X para delta, n = 8, cualquier orden, con la ventana sin menos unario
+                                                 (hallazgo 1.1): pasos.txt, registros y trazas de la ejecución del revisor

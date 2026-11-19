@@ -1,0 +1,12 @@
+123 sympy 587 e_F_ord 587 differences 0
+234 sympy 816 e_F_ord 816 differences 0
+345 sympy 800 e_F_ord 800 differences 0
+456 sympy 806 e_F_ord 806 differences 0
+123 in-order 587 any-order 1703 in-order values missing from any-order: 0
+234 in-order 816 any-order 2358 in-order values missing from any-order: 0
+345 in-order 800 any-order 2518 in-order values missing from any-order: 0
+456 in-order 806 any-order 2548 in-order values missing from any-order: 0
+567 in-order 864 any-order 2730 in-order values missing from any-order: 0
+678 in-order 862 any-order 2764 in-order values missing from any-order: 0
+789 in-order 880 any-order 2778 in-order values missing from any-order: 0
+TOTAL PROBLEMS: 0

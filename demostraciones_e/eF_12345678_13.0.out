@@ -1,0 +1,23 @@
+digits 12345678  theta = 13.0  (8s)
+side bounds (ln of max |mu|): SB(2) <= 2.913474  SB(3) <= 19.086411
+configurations needing blocks > 3 digits (must be empty): 0
+unresolved overlaps (must be empty): 0
+verified identities: 16, distinct ln ln N values: 1
+  ln(ln N) = [14.189577871177187171 +/- 2.51e-19]   (16 writings)
+        (1 + 2^(-8^7))^(4^(.5^(-6/.3)))   stories L=2 R=2
+        (1 + 2^(-8^7))^(-4^(.5^(-6/.3)))   stories L=2 R=2
+        (1 + -2^(-8^7))^(4^(.5^(-6/.3)))   stories L=2 R=2
+        (1 + -2^(-8^7))^(-4^(.5^(-6/.3)))   stories L=2 R=2
+        (1 + .5^(8^7))^(4^(2^(6/.3)))   stories L=2 R=2
+        (1 + .5^(8^7))^(-4^(2^(6/.3)))   stories L=2 R=2
+        (1 + -.5^(8^7))^(4^(2^(6/.3)))   stories L=2 R=2
+        (1 + -.5^(8^7))^(-4^(2^(6/.3)))   stories L=2 R=2
+        (1 + 4^-(2^(6/.3)))^(.5^(-8^7))   stories L=2 R=2
+        (1 + 4^-(2^(6/.3)))^(-.5^(-8^7))   stories L=2 R=2
+        (1 + -4^-(2^(6/.3)))^(.5^(-8^7))   stories L=2 R=2
+        (1 + -4^-(2^(6/.3)))^(-.5^(-8^7))   stories L=2 R=2
+        (1 + 4^-(.5^(-6/.3)))^(2^(8^7))   stories L=2 R=2
+        (1 + 4^-(.5^(-6/.3)))^(-2^(8^7))   stories L=2 R=2
+        (1 + -4^-(.5^(-6/.3)))^(2^(8^7))   stories L=2 R=2
+        (1 + -4^-(.5^(-6/.3)))^(-2^(8^7))   stories L=2 R=2
+  best with 2 stories: ln(ln N) = [14.1895778712 +/- 2.29e-11]   (1 + 2^(-8^7))^(4^(.5^(-6/.3)))

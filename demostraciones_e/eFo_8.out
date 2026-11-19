@@ -1,0 +1,8 @@
+digits 1..8 in order, theta = 3.9  (0s)
+configurations needing blocks > 4 digits (must be empty): 0  []
+unresolved overlaps (must be empty): 0
+verified identities: 4, distinct ln ln N values: 1
+  ln(ln N) = [4.0022455199432720107 +/- 1.08e-20]   (4 writings)
+        (1 + .2^34)^(5^((6*7)-8))
+        (1 + .2^34)^(-5^((6*7)-8))
+        (1 + -.2^34)^(5^((6*7)-8))

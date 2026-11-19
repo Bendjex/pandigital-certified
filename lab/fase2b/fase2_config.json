@@ -1,0 +1,60 @@
+{
+ "n": 9,
+ "ord": 0,
+ "consts": [
+  "pi",
+  "gamma",
+  "delta"
+ ],
+ "E_c7": {
+  "pi": 2.82e-14,
+  "gamma": 1.15e-15,
+  "delta": 1.39e-14
+ },
+ "E_c11": {
+  "pi": 3.532867681348361e-13,
+  "gamma": 6.571699281932244e-14,
+  "delta": 1.4966108821940592e-12
+ },
+ "c7_dir": "../c7",
+ "motora": "bin/motora.exe",
+ "motorc": "bin/motorc.exe",
+ "res_name": "res_9_0.txt",
+ "res_sha256": "a04480cfb0d08f0fc876ab1a3788c2ca17c7c3fc03a58d16e97990a718644975",
+ "w_c7": "data/w_c7_9_0.txt",
+ "w_c11": "data/w_c11_9_0.txt",
+ "ram": {
+  "c5": 12,
+  "motorc": 5,
+  "motora": 13,
+  "verif_worker": 2.5,
+  "hitcheck": 20
+ },
+ "ram_margin": 2,
+ "ram_min_free": 1.5,
+ "cores": 4,
+ "c5_tv": 4,
+ "c5_tn": 5,
+ "c5_parts": 0,
+ "motorc_parts": 4,
+ "verif_workers": 2,
+ "fullmax": 4,
+ "retries": 2,
+ "status_every_s": 1800,
+ "poll_s": 60,
+ "pack_max_mb": 200,
+ "w": {
+  "c7": 0,
+  "c5": 0,
+  "motorc": 60,
+  "motorB": 10,
+  "nv": 15,
+  "motorA": 42,
+  "hitcheck": 0
+ },
+ "autotest": {
+  "E_pi_6_0": 1.380101e-08
+ },
+ "motorc_nblocks": 128,
+ "motorc_nblocks2": 16
+}
