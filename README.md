@@ -4,7 +4,7 @@ This folder contains everything needed to recompute and check the certified opti
 pandigital problem (digits 1..n, each used once; + − × / ^, parentheses, decimal point, concatenation,
 unary minus; values and every subexpression 0 or in [1e-300, 1e300]). The proofs are in the appendices of the article (A: certifier; B: the constant e; C: motor X); Appendix A.10 maps each lemma to the function that implements it. Version 3.0.
 
-Archived in Zenodo: https://doi.org/10.5281/zenodo.24356239 · Repository: https://github.com/Bendjex/pandigital-certified
+Preprint: https://arxiv.org/abs/2611.25358 · Archived in Zenodo: https://doi.org/10.5281/zenodo.24356239 · Repository: https://github.com/Bendjex/pandigital-certified
 
 ## Contents
 
@@ -27,7 +27,6 @@ Archived in Zenodo: https://doi.org/10.5281/zenodo.24356239 · Repository: https
 | `c11/` | The variant without unary minus (Section 8) |
 | `analysis/` | The random model of Section 9.2 and Figure 1 |
 | `demostraciones_e/` | The proofs for e (Appendix B, Table of B.7) |
-| `lab/` | Windows packages of the laboratory runs |
 | `docs/motorx_changes.md` | Supplement to Appendix C.9 |
 | `results/` | Certificates and logs (see Results below) |
 
@@ -133,7 +132,7 @@ not part of any proof); `fig_d1.py` draws Figure 1 of the article.
 | `results/c5/` | Theorem 2: `estado_c5.csv` (one line per cell and constant: radii, splits, hits, undecided values for C7 and C11; all 59 closed), the session records and the tests. The records of n = 9 in any order are in `c5_final/resultados_n9/` |
 | `results/c11.jsonl` | Variant without unary minus: all 59 cells |
 | `results/c11_n9_any/`, `results/c11_n8_delta/` | The large cells of C11: surviving paths, verifier checkpoints, log |
-| `results/resolution_files.sha256` | Hashes of the resolution files (built with `OMP_NUM_THREADS=1`; with more threads the lines come out in another order, and `sort file | sha256sum` is the invariant) |
+| `results/resolution_files.sha256` | Hashes of the resolution files (built with `OMP_NUM_THREADS=1`; with more threads the lines come out in another order, and `sort file \| sha256sum` is the invariant) |
 | `results/c5_cells_q.jsonl`, `results/c5_hitcheck_9_1.jsonl` | Theorem 2 with the first version of motor X (2 Nov 2026), kept for reference |
 
 ## Lab packages (`lab/`)
